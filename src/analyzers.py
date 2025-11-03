@@ -1,3 +1,9 @@
+# IMPORTANT DISCLAIMER
+# ====================
+# This project uses SYNTHETIC DATA for educational purposes.
+# Data does NOT represent any real actual fleet performance.
+# All incidents, costs, and metrics are RANDOMLY GENERATED.
+
 """
 Module for statistical analysis and aggregations.
 Generates KPIs, trends, and insights from raw data.

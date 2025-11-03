@@ -1,3 +1,9 @@
+# IMPORTANT DISCLAIMER
+# ====================
+# This project uses SYNTHETIC DATA for educational purposes.
+# Data does NOT represent any real actual fleet performance.
+# All incidents, costs, and metrics are RANDOMLY GENERATED.
+
 """
 Module responsible for exporting processed data to files.
 Saves in CSV and Excel formats for Power BI consumption.

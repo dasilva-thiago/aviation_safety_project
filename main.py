@@ -65,14 +65,14 @@ def main():
         display_header()
         
         # Generate raw data
-        print("⏳ Step 1/5: Generating safety events...")
+        print(" Step 1/5: Generating safety events...")
         generator = SafetyEventGenerator(seed=config.RANDOM_SEED)
         events = generator.generate_all_events(config.NUM_EVENTS)
         df = pd.DataFrame(events)
         print(f" {len(df)} events generated successfully!")
         
         # Calculate risk scores
-        print("\n⏳ Step 2/5: Calculating risk scores...")
+        print("\n Step 2/5: Calculating risk scores...")
         df = RiskCalculator.add_scores_to_dataframe(df)
         df = RiskCalculator.add_classification(df)
         print(" Risk scores calculated!")

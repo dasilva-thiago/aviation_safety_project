@@ -1,3 +1,9 @@
+# IMPORTANT DISCLAIMER
+# ====================
+# This project uses SYNTHETIC DATA for educational purposes.
+# Data does NOT represent any real actual fleet performance.
+# All incidents, costs, and metrics are RANDOMLY GENERATED.
+
 """
 Module responsible for generating synthetic safety event data.
 Simulates realistic records based on commercial aviation patterns.

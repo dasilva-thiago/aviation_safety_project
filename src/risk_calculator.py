@@ -1,3 +1,9 @@
+# IMPORTANT DISCLAIMER
+# ====================
+# This project uses SYNTHETIC DATA for educational purposes.
+# Data does NOT represent any real actual fleet performance.
+# All incidents, costs, and metrics are RANDOMLY GENERATED.
+
 """
 Module for calculating risk scores and safety metrics.
 Implements algorithms for severity and probability assessment.
