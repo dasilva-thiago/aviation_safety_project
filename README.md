@@ -1,6 +1,18 @@
 # aviation_safety_project
 This is a coding project for an aeronautical operational safety event monitoring system, simulating a control room that monitors incidents, trends and criticality levels in real time using simulated data.
 
+**This project contains SYNTHETIC DATA for demonstration purposes only.**
+
+- All data is randomly generated using Python coding
+- **NO data represents any actual real aircraft performance**
+- **NO data reflects real safety incidents or records**
+- All metrics, costs, and incidents are FICTIONAL
+
+This is a portfolio project to demonstrate:
+- Data analysis skills
+- Power BI dashboard design
+- Python programming proficiency
+
 ## Overview
 
 This project generates synthetic aviation safety event data and provides statistical analysis tools for monitoring aircraft operational safety, specifically focused on fleet operations.

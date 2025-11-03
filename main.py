@@ -1,3 +1,9 @@
+# IMPORTANT DISCLAIMER
+# ====================
+# This project uses SYNTHETIC DATA for educational purposes.
+# Data does NOT represent any real actual fleet performance.
+# All incidents, costs, and metrics are RANDOMLY GENERATED.
+
 """
 Main execution script for the project.
 Orchestrates data generation, analysis, and export.
@@ -18,7 +24,7 @@ import pandas as pd
 def display_header():
     """Display program header."""
     print("=" * 70)
-    print("  FLIGHT SAFETY DATA GENERATOR - EMBRAER")
+    print("  FLIGHT SAFETY DATA GENERATOR - Internship Application Project 2026")
     print("=" * 70)
     print()
 
@@ -63,21 +69,21 @@ def main():
         generator = SafetyEventGenerator(seed=config.RANDOM_SEED)
         events = generator.generate_all_events(config.NUM_EVENTS)
         df = pd.DataFrame(events)
-        print(f"✅ {len(df)} events generated successfully!")
+        print(f" {len(df)} events generated successfully!")
         
         # Calculate risk scores
         print("\n⏳ Step 2/5: Calculating risk scores...")
         df = RiskCalculator.add_scores_to_dataframe(df)
         df = RiskCalculator.add_classification(df)
-        print("✅ Risk scores calculated!")
+        print(" Risk scores calculated!")
         
         # Perform analysess
-        print("\n⏳ Step 3/5: Running statistical analyses...")
+        print("\n Step 3/5: Running statistical analyses...")
         analyzer = SafetyAnalyzer(df)
         kpis = analyzer.calculate_main_kpis()
         aircraft_analysis = analyzer.analyze_by_aircraft()
         trend = analyzer.generate_time_trend()
-        print("✅ Analyses completed!")
+        print(" Analyses completed!")
         
         #Export data
         print("\n Step 4/5: Exporting data...")

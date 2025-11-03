@@ -1,8 +1,16 @@
+# IMPORTANT DISCLAIMER
+# ====================
+# This project uses SYNTHETIC DATA for educational purposes.
+# Data does NOT represent any real actual fleet performance.
+# All incidents, costs, and metrics are RANDOMLY GENERATED.
+
 """
 Configuration settings for aviation safety analysis project.
 Defines constants and parameters used throughout the system.
 Generates simulated data for demonstration, testing and learning purposes.
 """
+
+
 
 from datetime import datetime, timedelta
 
