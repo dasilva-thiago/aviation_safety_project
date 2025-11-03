@@ -15,9 +15,9 @@ PERIOD_DAYS = 365
 END_DATE = datetime.now()
 START_DATE = END_DATE - timedelta(days=PERIOD_DAYS)
 
-# aircraft models and their weights for simulation
+# fictional and simulated aircraft models and their weights for simulation
 AIRCRAFT_MODELS = {
-    'models': ['E175', 'E190', 'E195-E2', 'E-Jet E2', 'Legacy 600', 'Phenom 300'],
+    'models': ['Model A', 'Model B', 'Model C', 'Model D', 'Model E', 'Model F'],
     'weights': [0.25, 0.25, 0.20, 0.15, 0.10, 0.05]
 }
 
