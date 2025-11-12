@@ -55,28 +55,22 @@ class SafetyEventGenerator:
     def determine_severity(self, incident_type):
         """
         Determine severity based on incident type.
-        
-        Args:
-            incident_type (str): Type of incident
-            
-        Returns:
-            str: Severity level
+        Calibrado para gerar Safety Rate ≈ 95–96%
         """
-        # Critical incidents by nature
+
         if incident_type in ['Near Miss', 'Runway Incursion', 'Engines']:
-            return np.random.choice(['High', 'Critical'], p=[0.6, 0.4])
-        
-        # Generally minor incidents
+            return np.random.choice(['Medium', 'High', 'Critical'], p=[0.68, 0.25, 0.07])
+
         elif incident_type in ['Bird Strike', 'Weather Diversion', 'Ground Damage']:
-            return np.random.choice(['Low', 'Medium'], p=[0.7, 0.3])
-        
-        # Variable technical incidents
+            return np.random.choice(['Low', 'Medium', 'High'], p=[0.90, 0.09, 0.01])
+
         elif incident_type in ['Minor Technical Failure', 'Communication Failure']:
-            return np.random.choice(['Low', 'Medium', 'High'], p=[0.6, 0.3, 0.1])
-        
-        # Other cases - general distribution
+            return np.random.choice(['Low', 'Medium', 'High'], p=[0.89, 0.10, 0.01])
+
         else:
-            return np.random.choice(config.SEVERITY_LEVELS, p=[0.4, 0.35, 0.20, 0.05])
+            return np.random.choice(config.SEVERITY_LEVELS, p=[0.91, 0.06, 0.02, 0.01])
+
+
     
     def calculate_resolution_time(self, severity, days_since_event):
         """

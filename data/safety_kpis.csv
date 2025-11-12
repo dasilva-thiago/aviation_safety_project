@@ -1,0 +1,2 @@
+total_events,critical_events,high_events,safety_rate,total_injuries,avg_resolution_time,total_cost_usd,pending_events,most_incidents_model,most_common_type
+450,4,16,95.56,10,12.9,15988088.06,12,Model C,Bird Strike

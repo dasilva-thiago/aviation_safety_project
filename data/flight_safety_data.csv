@@ -1,0 +1,451 @@
+event_id,date,time,aircraft_model,registration,incident_type,severity,flight_phase,airport,status,resolution_days,injuries,aircraft_damage,delay_minutes,investigator,immediate_action,anac_notification,estimated_cost_usd,month,year,quarter,day_of_week,risk_score,risk_classification
+EVT0001,2024-11-03,03:22,Model D,PR-MOD898,Minor Technical Failure,Medium,Climb,FOR - Fortaleza,Resolved,30.0,0,Moderate,104,INV09,No,No,12551.53,11,2024,Q4,Sunday,30,Moderate
+EVT0002,2024-11-04,07:55,Model C,PR-MOD266,Severe Turbulence,Low,Approach,CNF - Confins,Monitoring,5.0,0,Minor,43,INV13,Yes,Yes,7812.21,11,2024,Q4,Monday,15,Low
+EVT0003,2024-11-04,10:50,Model C,PR-MOD521,Bird Strike,High,Taxi,GRU - Guarulhos,Resolved,87.0,0,Moderate,355,INV13,Yes,Yes,370916.59,11,2024,Q4,Monday,40,Moderate
+EVT0004,2024-11-04,03:24,Model A,PR-MOD993,Weather Diversion,Low,Approach,BSB - Brasília,Resolved,12.0,0,None,46,INV01,No,Yes,39389.99,11,2024,Q4,Monday,10,Low
+EVT0005,2024-11-06,14:22,Model B,PR-MOD412,Minor Technical Failure,Medium,Cruise,REC - Recife,Resolved,16.0,0,None,47,INV14,Yes,Yes,40847.67,11,2024,Q4,Wednesday,20,Low
+EVT0006,2024-11-06,10:17,Model B,PR-MOD985,Runway Incursion,High,Landing,VCP - Viracopos,Resolved,82.0,0,Severe,211,INV02,No,Yes,104633.6,11,2024,Q4,Wednesday,60,High
+EVT0007,2024-11-07,21:53,Model A,PR-MOD649,Bird Strike,Low,Post-landing,CGH - Congonhas,Resolved,14.0,0,Minor,49,INV06,Yes,Yes,25519.34,11,2024,Q4,Thursday,15,Low
+EVT0008,2024-11-07,08:02,Model C,PR-MOD211,Severe Turbulence,Low,Takeoff,VCP - Viracopos,Resolved,6.0,0,None,17,INV10,No,Yes,9010.53,11,2024,Q4,Thursday,20,Low
+EVT0009,2024-11-07,13:38,Model C,PR-MOD623,Communication Failure,Medium,Descent,GIG - Galeão,Resolved,24.0,0,Moderate,69,INV02,No,No,39342.77,11,2024,Q4,Thursday,30,Moderate
+EVT0010,2024-11-08,22:27,Model F,PR-MOD101,Weather Diversion,Low,Descent,GRU - Guarulhos,Resolved,12.0,0,None,40,INV09,Yes,Yes,12810.65,11,2024,Q4,Friday,10,Low
+EVT0011,2024-11-10,21:58,Model B,PR-MOD438,Bird Strike,Low,Climb,GRU - Guarulhos,Resolved,8.0,0,None,10,INV10,No,No,3591.69,11,2024,Q4,Sunday,10,Low
+EVT0012,2024-11-12,09:32,Model C,PR-MOD416,Pressurization,Low,Cruise,SSA - Salvador,Resolved,10.0,0,None,40,INV11,No,Yes,36015.74,11,2024,Q4,Tuesday,10,Low
+EVT0013,2024-11-13,17:08,Model A,PR-MOD296,Landing Gear,Low,Descent,BSB - Brasília,Resolved,7.0,0,None,23,INV07,No,No,34890.7,11,2024,Q4,Wednesday,10,Low
+EVT0014,2024-11-15,19:36,Model C,PR-MOD408,Ground Damage,Low,Climb,GRU - Guarulhos,Resolved,3.0,0,Minor,13,INV07,Yes,Yes,45150.0,11,2024,Q4,Friday,15,Low
+EVT0015,2024-11-16,18:38,Model B,PR-MOD770,Pressurization,Low,Takeoff,POA - Porto Alegre,Resolved,11.0,0,None,14,INV06,No,Yes,10588.12,11,2024,Q4,Saturday,20,Low
+EVT0016,2024-11-18,16:30,Model E,PR-MOD912,Minor Technical Failure,Low,Cruise,SDU - Santos Dumont,Resolved,1.0,0,None,31,INV15,Yes,No,33813.8,11,2024,Q4,Monday,10,Low
+EVT0017,2024-11-19,21:40,Model D,PR-MOD734,Severe Turbulence,Low,Climb,BSB - Brasília,Monitoring,4.0,0,None,6,INV06,Yes,Yes,14260.94,11,2024,Q4,Tuesday,10,Low
+EVT0018,2024-11-19,06:09,Model D,PR-MOD125,Bird Strike,Medium,Cruise,CGH - Congonhas,Resolved,15.0,0,Moderate,137,INV01,Yes,Yes,15589.93,11,2024,Q4,Tuesday,30,Moderate
+EVT0019,2024-11-19,02:29,Model D,PR-MOD524,Engines,Medium,Taxi,CWB - Curitiba,Resolved,37.0,0,Moderate,158,INV15,Yes,No,42501.91,11,2024,Q4,Tuesday,30,Moderate
+EVT0020,2024-11-21,12:15,Model E,PR-MOD251,Minor Technical Failure,Low,Taxi,SDU - Santos Dumont,Resolved,7.0,0,Minor,26,INV11,Yes,Yes,19260.53,11,2024,Q4,Thursday,15,Low
+EVT0021,2024-11-23,22:33,Model A,PR-MOD575,Smoke/Fumes,Low,Post-landing,REC - Recife,Resolved,11.0,0,None,31,INV01,Yes,Yes,11020.17,11,2024,Q4,Saturday,10,Low
+EVT0022,2024-11-23,14:42,Model B,PR-MOD643,Minor Technical Failure,Low,Climb,GRU - Guarulhos,Resolved,12.0,0,None,1,INV09,No,Yes,6753.62,11,2024,Q4,Saturday,10,Low
+EVT0023,2024-11-24,13:53,Model B,PR-MOD661,Bird Strike,High,Landing,SDU - Santos Dumont,Resolved,31.0,2,Severe,173,INV08,Yes,No,447089.95,11,2024,Q4,Sunday,80,Very High
+EVT0024,2024-11-25,07:53,Model C,PR-MOD752,Severe Turbulence,Low,Approach,SSA - Salvador,Resolved,5.0,0,None,31,INV05,No,No,22558.48,11,2024,Q4,Monday,10,Low
+EVT0025,2024-11-25,02:45,Model A,PR-MOD392,Smoke/Fumes,Low,Takeoff,CNF - Confins,Resolved,6.0,0,None,51,INV04,No,Yes,13802.41,11,2024,Q4,Monday,20,Low
+EVT0026,2024-11-26,02:08,Model D,PR-MOD254,Minor Technical Failure,Low,Post-landing,BSB - Brasília,Resolved,9.0,0,None,5,INV04,No,No,44662.04,11,2024,Q4,Tuesday,10,Low
+EVT0027,2024-11-27,02:26,Model A,PR-MOD517,Ground Damage,Low,Post-landing,SSA - Salvador,Monitoring,3.0,0,None,19,INV06,No,Yes,35350.32,11,2024,Q4,Wednesday,10,Low
+EVT0028,2024-11-28,13:24,Model B,PR-MOD888,Bird Strike,Low,Cruise,REC - Recife,Monitoring,2.0,0,None,10,INV10,Yes,No,10421.04,11,2024,Q4,Thursday,10,Low
+EVT0029,2024-11-28,11:19,Model E,PR-MOD871,Bird Strike,Medium,Takeoff,REC - Recife,Resolved,44.0,0,Minor,173,INV07,No,No,23901.29,11,2024,Q4,Thursday,35,Moderate
+EVT0030,2024-11-29,19:57,Model F,PR-MOD325,Weather Diversion,Low,Post-landing,CWB - Curitiba,Monitoring,14.0,0,Minor,36,INV08,Yes,Yes,36758.24,11,2024,Q4,Friday,15,Low
+EVT0031,2024-11-30,12:21,Model D,PR-MOD784,Bird Strike,Low,Post-landing,GRU - Guarulhos,Monitoring,3.0,0,None,53,INV11,No,No,24333.54,11,2024,Q4,Saturday,10,Low
+EVT0032,2024-12-01,04:39,Model A,PR-MOD646,Ground Damage,Low,Post-landing,REC - Recife,Resolved,6.0,0,None,34,INV01,No,No,42041.23,12,2024,Q4,Sunday,10,Low
+EVT0033,2024-12-02,02:41,Model A,PR-MOD538,Smoke/Fumes,Low,Post-landing,REC - Recife,Resolved,2.0,0,Minor,34,INV03,No,Yes,33183.69,12,2024,Q4,Monday,15,Low
+EVT0034,2024-12-02,10:13,Model B,PR-MOD565,Bird Strike,Low,Landing,BSB - Brasília,Resolved,4.0,0,None,7,INV06,No,Yes,13081.8,12,2024,Q4,Monday,20,Low
+EVT0035,2024-12-02,13:16,Model A,PR-MOD954,Smoke/Fumes,Low,Approach,CNF - Confins,Resolved,3.0,0,None,21,INV02,No,Yes,37625.29,12,2024,Q4,Monday,10,Low
+EVT0036,2024-12-02,11:14,Model E,PR-MOD765,Runway Incursion,Medium,Taxi,VCP - Viracopos,Resolved,36.0,0,Moderate,59,INV02,Yes,Yes,27017.01,12,2024,Q4,Monday,30,Moderate
+EVT0037,2024-12-03,00:39,Model A,PR-MOD256,Smoke/Fumes,Low,Post-landing,GRU - Guarulhos,Resolved,3.0,0,None,48,INV04,Yes,Yes,10048.1,12,2024,Q4,Tuesday,10,Low
+EVT0038,2024-12-03,06:29,Model B,PR-MOD816,Near Miss,Medium,Post-landing,GRU - Guarulhos,Resolved,15.0,0,Moderate,66,INV05,No,Yes,5808.03,12,2024,Q4,Tuesday,30,Moderate
+EVT0039,2024-12-04,23:45,Model F,PR-MOD217,Weather Diversion,Low,Post-landing,SSA - Salvador,Resolved,4.0,0,Minor,20,INV13,Yes,Yes,30401.65,12,2024,Q4,Wednesday,15,Low
+EVT0040,2024-12-04,09:36,Model B,PR-MOD793,Severe Turbulence,Low,Climb,FOR - Fortaleza,Monitoring,10.0,0,None,57,INV15,No,Yes,28976.37,12,2024,Q4,Wednesday,10,Low
+EVT0041,2024-12-05,18:44,Model C,PR-MOD950,Bird Strike,Low,Takeoff,GIG - Galeão,Resolved,7.0,0,Minor,26,INV11,Yes,Yes,9996.66,12,2024,Q4,Thursday,25,Low
+EVT0042,2024-12-05,21:38,Model A,PR-MOD924,Severe Turbulence,Low,Takeoff,SSA - Salvador,Resolved,6.0,0,Minor,28,INV02,Yes,Yes,38646.8,12,2024,Q4,Thursday,25,Low
+EVT0043,2024-12-06,11:04,Model C,PR-MOD618,Minor Technical Failure,Low,Cruise,CGH - Congonhas,Resolved,12.0,0,Minor,56,INV11,No,Yes,21476.06,12,2024,Q4,Friday,15,Low
+EVT0044,2024-12-07,03:27,Model D,PR-MOD470,Ground Damage,Low,Cruise,GIG - Galeão,Monitoring,12.0,0,None,14,INV11,No,No,41134.31,12,2024,Q4,Saturday,10,Low
+EVT0045,2024-12-07,23:33,Model A,PR-MOD766,Bird Strike,Low,Takeoff,POA - Porto Alegre,Resolved,9.0,0,None,21,INV05,No,Yes,21830.81,12,2024,Q4,Saturday,20,Low
+EVT0046,2024-12-08,18:17,Model D,PR-MOD430,Bird Strike,Low,Taxi,FOR - Fortaleza,Resolved,6.0,0,None,36,INV14,Yes,Yes,41304.16,12,2024,Q4,Sunday,10,Low
+EVT0047,2024-12-08,07:48,Model C,PR-MOD575,Hydraulic System,Low,Cruise,BSB - Brasília,Monitoring,4.0,0,None,31,INV10,No,Yes,44093.4,12,2024,Q4,Sunday,10,Low
+EVT0048,2024-12-08,10:11,Model F,PR-MOD599,Ground Damage,Low,Taxi,FOR - Fortaleza,Resolved,12.0,0,None,18,INV04,No,Yes,24765.89,12,2024,Q4,Sunday,10,Low
+EVT0049,2024-12-08,19:44,Model A,PR-MOD382,Severe Turbulence,Low,Landing,REC - Recife,Resolved,5.0,0,None,22,INV09,Yes,No,14054.96,12,2024,Q4,Sunday,20,Low
+EVT0050,2024-12-09,23:26,Model E,PR-MOD600,Smoke/Fumes,Low,Post-landing,REC - Recife,Resolved,2.0,0,None,53,INV09,Yes,No,4372.09,12,2024,Q4,Monday,10,Low
+EVT0051,2024-12-09,15:28,Model F,PR-MOD911,Smoke/Fumes,Low,Approach,SSA - Salvador,Resolved,7.0,0,None,4,INV01,Yes,Yes,32330.55,12,2024,Q4,Monday,10,Low
+EVT0052,2024-12-09,07:19,Model A,PR-MOD779,Bird Strike,Low,Cruise,SDU - Santos Dumont,Resolved,6.0,0,None,13,INV10,No,Yes,20279.62,12,2024,Q4,Monday,10,Low
+EVT0053,2024-12-10,13:47,Model F,PR-MOD663,Bird Strike,Low,Takeoff,SDU - Santos Dumont,Resolved,5.0,0,Minor,25,INV06,No,No,26593.0,12,2024,Q4,Tuesday,25,Low
+EVT0054,2024-12-10,08:14,Model B,PR-MOD223,Weather Diversion,Low,Descent,CGH - Congonhas,Resolved,7.0,0,None,53,INV12,Yes,Yes,13618.73,12,2024,Q4,Tuesday,10,Low
+EVT0055,2024-12-11,22:11,Model C,PR-MOD296,Bird Strike,Low,Descent,CGH - Congonhas,Resolved,10.0,0,None,55,INV04,No,Yes,37169.77,12,2024,Q4,Wednesday,10,Low
+EVT0056,2024-12-11,16:38,Model E,PR-MOD389,Ground Damage,Medium,Post-landing,VCP - Viracopos,Resolved,37.0,0,Moderate,113,INV02,Yes,Yes,29520.39,12,2024,Q4,Wednesday,30,Moderate
+EVT0057,2024-12-13,09:00,Model B,PR-MOD825,Minor Technical Failure,Low,Climb,GRU - Guarulhos,Monitoring,3.0,0,None,11,INV09,Yes,Yes,18107.97,12,2024,Q4,Friday,10,Low
+EVT0058,2024-12-13,22:08,Model A,PR-MOD753,Runway Incursion,High,Takeoff,BSB - Brasília,Resolved,42.0,0,Moderate,421,INV14,No,Yes,281145.89,12,2024,Q4,Friday,50,High
+EVT0059,2024-12-13,15:30,Model C,PR-MOD551,Ground Damage,Low,Approach,GIG - Galeão,Monitoring,13.0,0,None,25,INV06,Yes,Yes,28745.8,12,2024,Q4,Friday,10,Low
+EVT0060,2024-12-14,15:07,Model C,PR-MOD941,Severe Turbulence,Low,Post-landing,CGH - Congonhas,Resolved,2.0,0,None,28,INV02,No,Yes,47059.07,12,2024,Q4,Saturday,10,Low
+EVT0061,2024-12-14,21:03,Model C,PR-MOD255,Minor Technical Failure,Medium,Post-landing,CGH - Congonhas,Resolved,18.0,0,None,128,INV03,No,Yes,28893.36,12,2024,Q4,Saturday,20,Low
+EVT0062,2024-12-16,13:38,Model B,PR-MOD710,Minor Technical Failure,Low,Taxi,SSA - Salvador,Resolved,14.0,0,None,11,INV13,Yes,No,6010.73,12,2024,Q4,Monday,10,Low
+EVT0063,2024-12-17,14:19,Model A,PR-MOD980,Pressurization,Low,Post-landing,REC - Recife,Resolved,1.0,0,None,19,INV10,No,Yes,22580.67,12,2024,Q4,Tuesday,10,Low
+EVT0064,2024-12-19,19:47,Model B,PR-MOD201,Severe Turbulence,Low,Cruise,REC - Recife,Monitoring,12.0,0,Minor,18,INV13,Yes,No,31089.26,12,2024,Q4,Thursday,15,Low
+EVT0065,2024-12-20,02:10,Model F,PR-MOD345,Severe Turbulence,Medium,Descent,SDU - Santos Dumont,Resolved,28.0,0,None,173,INV03,Yes,Yes,13305.84,12,2024,Q4,Friday,20,Low
+EVT0066,2024-12-20,22:38,Model C,PR-MOD581,Severe Turbulence,Low,Taxi,SSA - Salvador,Monitoring,4.0,0,None,15,INV05,Yes,Yes,20485.03,12,2024,Q4,Friday,10,Low
+EVT0067,2024-12-20,22:55,Model A,PR-MOD564,Bird Strike,Low,Descent,CWB - Curitiba,Resolved,10.0,0,None,22,INV02,Yes,Yes,35377.1,12,2024,Q4,Friday,10,Low
+EVT0068,2024-12-20,06:27,Model C,PR-MOD217,Smoke/Fumes,Medium,Approach,FOR - Fortaleza,Resolved,26.0,0,Moderate,36,INV09,Yes,No,29530.5,12,2024,Q4,Friday,30,Moderate
+EVT0069,2024-12-21,04:04,Model D,PR-MOD161,Bird Strike,Low,Climb,FOR - Fortaleza,Resolved,5.0,0,None,37,INV03,No,No,45429.73,12,2024,Q4,Saturday,10,Low
+EVT0070,2024-12-22,09:28,Model D,PR-MOD227,Minor Technical Failure,Low,Cruise,CNF - Confins,Monitoring,7.0,0,Minor,3,INV08,No,No,41229.59,12,2024,Q4,Sunday,15,Low
+EVT0071,2024-12-22,16:34,Model B,PR-MOD605,Smoke/Fumes,Low,Climb,SSA - Salvador,Resolved,7.0,0,None,25,INV08,Yes,No,47139.54,12,2024,Q4,Sunday,10,Low
+EVT0072,2024-12-23,23:20,Model B,PR-MOD718,Minor Technical Failure,Low,Post-landing,REC - Recife,Resolved,14.0,0,None,27,INV05,Yes,Yes,44482.2,12,2024,Q4,Monday,10,Low
+EVT0073,2024-12-23,18:37,Model A,PR-MOD121,Pressurization,Low,Taxi,FOR - Fortaleza,Resolved,9.0,0,None,48,INV13,No,No,48099.36,12,2024,Q4,Monday,10,Low
+EVT0074,2024-12-24,05:30,Model D,PR-MOD631,Weather Diversion,Low,Descent,CNF - Confins,Monitoring,13.0,0,None,46,INV11,No,Yes,38179.14,12,2024,Q4,Tuesday,10,Low
+EVT0075,2024-12-24,13:40,Model B,PR-MOD933,Avionics,Medium,Landing,REC - Recife,Monitoring,28.0,0,None,175,INV08,Yes,Yes,49847.58,12,2024,Q4,Tuesday,30,Moderate
+EVT0076,2024-12-25,10:42,Model F,PR-MOD207,Severe Turbulence,Low,Landing,REC - Recife,Resolved,6.0,0,None,15,INV14,Yes,Yes,20476.57,12,2024,Q4,Wednesday,20,Low
+EVT0077,2024-12-25,09:42,Model A,PR-MOD510,Avionics,Medium,Post-landing,POA - Porto Alegre,Resolved,21.0,0,Minor,146,INV14,Yes,Yes,34714.32,12,2024,Q4,Wednesday,25,Low
+EVT0078,2024-12-26,10:07,Model B,PR-MOD891,Bird Strike,Low,Taxi,CGH - Congonhas,Resolved,2.0,0,None,36,INV07,Yes,No,15794.41,12,2024,Q4,Thursday,10,Low
+EVT0079,2024-12-27,06:33,Model C,PR-MOD470,Near Miss,High,Cruise,BSB - Brasília,Resolved,62.0,2,Significant,580,INV10,No,No,212491.31,12,2024,Q4,Friday,65,High
+EVT0080,2024-12-27,06:17,Model D,PR-MOD662,Electrical System,Medium,Approach,GIG - Galeão,Resolved,34.0,0,Minor,85,INV03,No,Yes,38023.53,12,2024,Q4,Friday,25,Low
+EVT0081,2024-12-28,00:40,Model B,PR-MOD723,Weather Diversion,Low,Landing,GRU - Guarulhos,Monitoring,6.0,0,Minor,31,INV13,Yes,No,24287.12,12,2024,Q4,Saturday,25,Low
+EVT0082,2024-12-29,00:35,Model B,PR-MOD517,Minor Technical Failure,Low,Taxi,GIG - Galeão,Monitoring,11.0,0,None,12,INV02,Yes,Yes,15606.43,12,2024,Q4,Sunday,10,Low
+EVT0083,2024-12-30,20:53,Model A,PR-MOD257,Bird Strike,Low,Descent,SDU - Santos Dumont,Monitoring,7.0,0,None,16,INV08,No,No,47358.33,12,2024,Q4,Monday,10,Low
+EVT0084,2024-12-30,15:30,Model D,PR-MOD349,Near Miss,Medium,Descent,REC - Recife,Monitoring,19.0,0,Moderate,174,INV08,Yes,Yes,13743.9,12,2024,Q4,Monday,30,Moderate
+EVT0085,2024-12-30,16:47,Model C,PR-MOD239,Bird Strike,Medium,Takeoff,VCP - Viracopos,Resolved,10.0,0,None,61,INV14,Yes,Yes,46101.22,12,2024,Q4,Monday,30,Moderate
+EVT0086,2024-12-30,16:17,Model B,PR-MOD940,Severe Turbulence,Low,Takeoff,VCP - Viracopos,Resolved,6.0,0,None,58,INV01,No,No,17059.77,12,2024,Q4,Monday,20,Low
+EVT0087,2024-12-31,18:42,Model A,PR-MOD601,Electrical System,Medium,Landing,SDU - Santos Dumont,Resolved,26.0,0,Minor,76,INV14,Yes,Yes,41890.05,12,2024,Q4,Tuesday,35,Moderate
+EVT0088,2025-01-01,10:35,Model A,PR-MOD881,Ground Damage,Low,Approach,GIG - Galeão,Resolved,6.0,0,Minor,33,INV09,No,Yes,24268.64,1,2025,Q1,Wednesday,15,Low
+EVT0089,2025-01-03,22:15,Model B,PR-MOD685,Ground Damage,Low,Taxi,FOR - Fortaleza,Resolved,2.0,0,None,37,INV07,Yes,Yes,43493.12,1,2025,Q1,Friday,10,Low
+EVT0090,2025-01-03,15:45,Model C,PR-MOD930,Avionics,Low,Takeoff,FOR - Fortaleza,Monitoring,1.0,0,None,3,INV07,No,No,15977.0,1,2025,Q1,Friday,20,Low
+EVT0091,2025-01-05,15:02,Model A,PR-MOD229,Landing Gear,Low,Takeoff,CWB - Curitiba,Monitoring,5.0,0,Minor,52,INV09,No,Yes,49042.83,1,2025,Q1,Sunday,25,Low
+EVT0092,2025-01-06,14:00,Model C,PR-MOD839,Ground Damage,Low,Climb,CNF - Confins,Resolved,7.0,0,None,30,INV03,No,No,5075.61,1,2025,Q1,Monday,10,Low
+EVT0093,2025-01-07,08:21,Model C,PR-MOD738,Smoke/Fumes,Low,Climb,GIG - Galeão,Monitoring,9.0,0,None,2,INV12,No,No,3833.93,1,2025,Q1,Tuesday,10,Low
+EVT0094,2025-01-07,21:54,Model D,PR-MOD646,Ground Damage,Low,Descent,CNF - Confins,Resolved,2.0,0,None,21,INV07,No,No,42603.09,1,2025,Q1,Tuesday,10,Low
+EVT0095,2025-01-08,15:55,Model A,PR-MOD654,Bird Strike,Low,Descent,CWB - Curitiba,Resolved,2.0,0,Minor,25,INV01,Yes,Yes,44383.19,1,2025,Q1,Wednesday,15,Low
+EVT0096,2025-01-09,09:14,Model C,PR-MOD864,Bird Strike,Low,Descent,GRU - Guarulhos,Monitoring,8.0,0,Minor,47,INV02,No,Yes,34251.54,1,2025,Q1,Thursday,15,Low
+EVT0097,2025-01-09,03:28,Model D,PR-MOD270,Severe Turbulence,Low,Landing,FOR - Fortaleza,Monitoring,13.0,0,Minor,46,INV12,No,Yes,35224.15,1,2025,Q1,Thursday,25,Low
+EVT0098,2025-01-09,01:18,Model B,PR-MOD467,Weather Diversion,Low,Approach,CWB - Curitiba,Resolved,8.0,0,None,25,INV06,No,Yes,16286.3,1,2025,Q1,Thursday,10,Low
+EVT0099,2025-01-10,18:43,Model E,PR-MOD911,Severe Turbulence,Low,Descent,GIG - Galeão,Resolved,14.0,0,None,59,INV03,Yes,Yes,26605.2,1,2025,Q1,Friday,10,Low
+EVT0100,2025-01-12,12:39,Model A,PR-MOD799,Minor Technical Failure,Low,Takeoff,SSA - Salvador,Resolved,9.0,0,None,27,INV04,No,No,30513.64,1,2025,Q1,Sunday,20,Low
+EVT0101,2025-01-13,20:16,Model B,PR-MOD570,Severe Turbulence,Low,Cruise,REC - Recife,Resolved,12.0,0,None,12,INV05,Yes,Yes,11686.2,1,2025,Q1,Monday,10,Low
+EVT0102,2025-01-13,05:04,Model B,PR-MOD552,Smoke/Fumes,Low,Landing,FOR - Fortaleza,Resolved,4.0,0,None,33,INV06,No,No,33912.78,1,2025,Q1,Monday,20,Low
+EVT0103,2025-01-13,14:54,Model B,PR-MOD409,Ground Damage,Low,Post-landing,GIG - Galeão,Resolved,5.0,0,None,25,INV04,No,Yes,34546.64,1,2025,Q1,Monday,10,Low
+EVT0104,2025-01-15,18:22,Model B,PR-MOD688,Severe Turbulence,Low,Descent,CNF - Confins,Resolved,9.0,0,None,21,INV05,No,Yes,11936.56,1,2025,Q1,Wednesday,10,Low
+EVT0105,2025-01-17,00:36,Model E,PR-MOD985,Minor Technical Failure,Low,Post-landing,SSA - Salvador,Resolved,14.0,0,Minor,30,INV11,Yes,No,19850.71,1,2025,Q1,Friday,15,Low
+EVT0106,2025-01-18,09:49,Model A,PR-MOD918,Landing Gear,Low,Approach,GIG - Galeão,Monitoring,5.0,0,Minor,30,INV04,No,Yes,24886.69,1,2025,Q1,Saturday,15,Low
+EVT0107,2025-01-20,08:43,Model A,PR-MOD873,Ground Damage,Medium,Taxi,GIG - Galeão,Resolved,39.0,0,Moderate,91,INV12,Yes,No,9587.59,1,2025,Q1,Monday,30,Moderate
+EVT0108,2025-01-20,20:02,Model B,PR-MOD416,Weather Diversion,Low,Approach,CGH - Congonhas,Resolved,12.0,0,None,25,INV13,No,Yes,45179.84,1,2025,Q1,Monday,10,Low
+EVT0109,2025-01-21,04:05,Model A,PR-MOD402,Minor Technical Failure,Low,Descent,CWB - Curitiba,Resolved,1.0,0,Minor,37,INV06,No,Yes,18306.58,1,2025,Q1,Tuesday,15,Low
+EVT0110,2025-01-21,17:56,Model C,PR-MOD474,Communication Failure,Low,Descent,SSA - Salvador,Resolved,6.0,0,None,9,INV09,No,Yes,6694.77,1,2025,Q1,Tuesday,10,Low
+EVT0111,2025-01-21,15:51,Model C,PR-MOD402,Weather Diversion,Low,Taxi,GRU - Guarulhos,Resolved,4.0,0,None,36,INV12,No,Yes,45711.04,1,2025,Q1,Tuesday,10,Low
+EVT0112,2025-01-22,04:48,Model C,PR-MOD331,Bird Strike,Low,Descent,VCP - Viracopos,Resolved,3.0,0,None,48,INV14,No,No,48148.38,1,2025,Q1,Wednesday,10,Low
+EVT0113,2025-01-22,12:00,Model D,PR-MOD370,Runway Incursion,Medium,Taxi,FOR - Fortaleza,Resolved,18.0,0,Minor,64,INV09,Yes,Yes,4606.11,1,2025,Q1,Wednesday,25,Low
+EVT0114,2025-01-22,21:16,Model D,PR-MOD698,Pressurization,Low,Cruise,BSB - Brasília,Resolved,11.0,0,None,13,INV07,No,Yes,33674.14,1,2025,Q1,Wednesday,10,Low
+EVT0115,2025-01-23,00:39,Model C,PR-MOD674,Bird Strike,Low,Descent,POA - Porto Alegre,Monitoring,10.0,0,Minor,24,INV06,Yes,No,11767.71,1,2025,Q1,Thursday,15,Low
+EVT0116,2025-01-23,14:58,Model B,PR-MOD817,Minor Technical Failure,Low,Taxi,SSA - Salvador,Monitoring,14.0,0,None,37,INV05,No,Yes,31806.66,1,2025,Q1,Thursday,10,Low
+EVT0117,2025-01-24,01:19,Model B,PR-MOD604,Minor Technical Failure,Low,Post-landing,FOR - Fortaleza,Resolved,7.0,0,None,52,INV02,Yes,Yes,2362.81,1,2025,Q1,Friday,10,Low
+EVT0118,2025-01-24,14:23,Model E,PR-MOD786,Ground Damage,Low,Post-landing,CGH - Congonhas,Resolved,7.0,0,Minor,41,INV12,No,No,6869.64,1,2025,Q1,Friday,15,Low
+EVT0119,2025-01-25,13:41,Model C,PR-MOD201,Hydraulic System,Low,Approach,REC - Recife,Resolved,7.0,0,Minor,28,INV14,No,No,36357.3,1,2025,Q1,Saturday,15,Low
+EVT0120,2025-01-25,08:02,Model D,PR-MOD806,Severe Turbulence,Low,Takeoff,SDU - Santos Dumont,Resolved,14.0,0,None,1,INV06,Yes,Yes,46958.75,1,2025,Q1,Saturday,20,Low
+EVT0121,2025-01-26,11:06,Model D,PR-MOD802,Engines,Medium,Post-landing,CGH - Congonhas,Resolved,40.0,0,Minor,138,INV06,No,Yes,47532.7,1,2025,Q1,Sunday,25,Low
+EVT0122,2025-01-26,03:54,Model A,PR-MOD943,Minor Technical Failure,Low,Climb,BSB - Brasília,Resolved,4.0,0,None,1,INV08,Yes,No,13866.48,1,2025,Q1,Sunday,10,Low
+EVT0123,2025-01-27,19:01,Model B,PR-MOD151,Smoke/Fumes,Low,Post-landing,CNF - Confins,Monitoring,5.0,0,None,9,INV13,No,Yes,32121.05,1,2025,Q1,Monday,10,Low
+EVT0124,2025-01-29,06:04,Model B,PR-MOD949,Severe Turbulence,Low,Post-landing,GIG - Galeão,Resolved,11.0,0,None,12,INV13,Yes,No,39370.21,1,2025,Q1,Wednesday,10,Low
+EVT0125,2025-02-02,07:21,Model E,PR-MOD892,Ground Damage,Low,Cruise,SDU - Santos Dumont,Resolved,12.0,0,None,47,INV03,Yes,Yes,40671.34,2,2025,Q1,Sunday,10,Low
+EVT0126,2025-02-04,17:16,Model A,PR-MOD917,Avionics,Low,Approach,BSB - Brasília,Resolved,12.0,0,None,8,INV03,Yes,No,49377.61,2,2025,Q1,Tuesday,10,Low
+EVT0127,2025-02-06,11:50,Model E,PR-MOD907,Pressurization,Medium,Descent,POA - Porto Alegre,Resolved,32.0,0,None,130,INV04,No,Yes,6676.98,2,2025,Q1,Thursday,20,Low
+EVT0128,2025-02-08,04:47,Model E,PR-MOD531,Electrical System,Low,Landing,SDU - Santos Dumont,Resolved,6.0,0,None,39,INV09,Yes,No,13341.84,2,2025,Q1,Saturday,20,Low
+EVT0129,2025-02-08,11:32,Model A,PR-MOD707,Minor Technical Failure,Low,Climb,CGH - Congonhas,Resolved,9.0,0,None,40,INV02,No,No,23864.67,2,2025,Q1,Saturday,10,Low
+EVT0130,2025-02-08,01:46,Model B,PR-MOD902,Weather Diversion,Medium,Taxi,CWB - Curitiba,Resolved,27.0,0,None,120,INV15,No,Yes,47276.24,2,2025,Q1,Saturday,20,Low
+EVT0131,2025-02-09,01:30,Model A,PR-MOD967,Bird Strike,Medium,Taxi,GRU - Guarulhos,Resolved,34.0,0,Moderate,117,INV07,No,No,48204.91,2,2025,Q1,Sunday,30,Moderate
+EVT0132,2025-02-09,14:04,Model A,PR-MOD182,Hydraulic System,Low,Taxi,CGH - Congonhas,Resolved,2.0,0,None,6,INV06,Yes,Yes,24564.42,2,2025,Q1,Sunday,10,Low
+EVT0133,2025-02-12,20:37,Model E,PR-MOD661,Minor Technical Failure,Low,Taxi,SSA - Salvador,Resolved,13.0,0,None,6,INV12,No,Yes,13823.3,2,2025,Q1,Wednesday,10,Low
+EVT0134,2025-02-12,14:32,Model B,PR-MOD719,Minor Technical Failure,Low,Descent,FOR - Fortaleza,Resolved,14.0,0,Minor,44,INV07,Yes,No,26574.79,2,2025,Q1,Wednesday,15,Low
+EVT0135,2025-02-13,20:56,Model D,PR-MOD887,Ground Damage,Low,Taxi,GIG - Galeão,Resolved,2.0,0,None,27,INV09,Yes,Yes,42654.36,2,2025,Q1,Thursday,10,Low
+EVT0136,2025-02-15,13:21,Model A,PR-MOD947,Weather Diversion,Low,Climb,POA - Porto Alegre,Monitoring,8.0,0,None,38,INV08,No,Yes,44415.74,2,2025,Q1,Saturday,10,Low
+EVT0137,2025-02-15,13:20,Model B,PR-MOD781,Severe Turbulence,Low,Takeoff,SSA - Salvador,Monitoring,7.0,0,Minor,31,INV05,No,Yes,4844.78,2,2025,Q1,Saturday,25,Low
+EVT0138,2025-02-18,02:05,Model A,PR-MOD951,Smoke/Fumes,Low,Approach,REC - Recife,Resolved,8.0,0,Minor,7,INV02,Yes,Yes,46156.95,2,2025,Q1,Tuesday,15,Low
+EVT0139,2025-02-18,11:51,Model C,PR-MOD233,Hydraulic System,Low,Post-landing,FOR - Fortaleza,Resolved,8.0,0,None,31,INV09,Yes,No,37254.99,2,2025,Q1,Tuesday,10,Low
+EVT0140,2025-02-18,21:07,Model E,PR-MOD520,Electrical System,Medium,Post-landing,GIG - Galeão,Resolved,30.0,0,Moderate,84,INV06,No,No,28128.0,2,2025,Q1,Tuesday,30,Moderate
+EVT0141,2025-02-19,19:19,Model A,PR-MOD460,Bird Strike,Low,Cruise,VCP - Viracopos,Resolved,3.0,0,None,18,INV02,Yes,Yes,48423.09,2,2025,Q1,Wednesday,10,Low
+EVT0142,2025-02-19,03:22,Model C,PR-MOD965,Smoke/Fumes,Medium,Climb,SSA - Salvador,Resolved,20.0,0,Moderate,159,INV09,No,Yes,24161.25,2,2025,Q1,Wednesday,30,Moderate
+EVT0143,2025-02-19,13:54,Model B,PR-MOD674,Bird Strike,Low,Cruise,BSB - Brasília,Resolved,14.0,0,None,52,INV13,Yes,No,28747.59,2,2025,Q1,Wednesday,10,Low
+EVT0144,2025-02-20,08:01,Model A,PR-MOD284,Communication Failure,Low,Approach,SSA - Salvador,Resolved,10.0,0,Minor,58,INV05,No,Yes,41490.09,2,2025,Q1,Thursday,15,Low
+EVT0145,2025-02-20,04:36,Model A,PR-MOD773,Hydraulic System,Low,Descent,REC - Recife,Resolved,14.0,0,None,1,INV07,Yes,Yes,404.68,2,2025,Q1,Thursday,10,Low
+EVT0146,2025-02-20,00:05,Model D,PR-MOD864,Severe Turbulence,Low,Descent,GIG - Galeão,Resolved,4.0,0,Minor,28,INV09,Yes,Yes,31695.28,2,2025,Q1,Thursday,15,Low
+EVT0147,2025-02-21,05:23,Model E,PR-MOD419,Severe Turbulence,Low,Approach,GIG - Galeão,Monitoring,5.0,0,None,40,INV12,No,No,22736.92,2,2025,Q1,Friday,10,Low
+EVT0148,2025-02-22,01:09,Model D,PR-MOD261,Weather Diversion,Low,Descent,CWB - Curitiba,Resolved,7.0,0,Minor,21,INV13,Yes,No,4339.36,2,2025,Q1,Saturday,15,Low
+EVT0149,2025-02-22,21:27,Model C,PR-MOD597,Avionics,Low,Landing,POA - Porto Alegre,Resolved,12.0,0,None,52,INV10,No,Yes,13677.93,2,2025,Q1,Saturday,20,Low
+EVT0150,2025-02-23,16:07,Model B,PR-MOD453,Avionics,Low,Cruise,CNF - Confins,Resolved,10.0,0,None,1,INV07,Yes,Yes,10856.89,2,2025,Q1,Sunday,10,Low
+EVT0151,2025-02-23,15:33,Model C,PR-MOD783,Pressurization,Low,Post-landing,CWB - Curitiba,Resolved,10.0,0,Minor,10,INV05,Yes,Yes,33956.46,2,2025,Q1,Sunday,15,Low
+EVT0152,2025-02-23,01:00,Model B,PR-MOD309,Minor Technical Failure,Low,Landing,FOR - Fortaleza,Monitoring,3.0,0,None,54,INV05,Yes,Yes,49223.84,2,2025,Q1,Sunday,20,Low
+EVT0153,2025-02-23,03:00,Model A,PR-MOD609,Communication Failure,Low,Climb,CGH - Congonhas,Resolved,4.0,0,None,18,INV12,No,Yes,14543.41,2,2025,Q1,Sunday,10,Low
+EVT0154,2025-02-25,22:14,Model C,PR-MOD612,Bird Strike,Low,Descent,REC - Recife,Resolved,2.0,0,None,1,INV09,No,Yes,19072.35,2,2025,Q1,Tuesday,10,Low
+EVT0155,2025-02-26,01:27,Model B,PR-MOD119,Bird Strike,Low,Landing,BSB - Brasília,Resolved,11.0,0,None,24,INV08,Yes,Yes,43102.04,2,2025,Q1,Wednesday,20,Low
+EVT0156,2025-02-27,12:45,Model C,PR-MOD755,Electrical System,Low,Climb,SDU - Santos Dumont,Resolved,14.0,0,Minor,11,INV07,No,Yes,21521.29,2,2025,Q1,Thursday,15,Low
+EVT0157,2025-02-28,10:10,Model A,PR-MOD920,Bird Strike,Medium,Cruise,FOR - Fortaleza,Resolved,19.0,0,Minor,76,INV10,No,No,1140.74,2,2025,Q1,Friday,25,Low
+EVT0158,2025-02-28,03:15,Model D,PR-MOD546,Pressurization,Low,Post-landing,REC - Recife,Resolved,5.0,0,None,5,INV10,No,No,4497.68,2,2025,Q1,Friday,10,Low
+EVT0159,2025-02-28,09:47,Model C,PR-MOD447,Avionics,Low,Post-landing,POA - Porto Alegre,Monitoring,9.0,0,None,46,INV04,No,Yes,19848.76,2,2025,Q1,Friday,10,Low
+EVT0160,2025-03-02,16:32,Model C,PR-MOD298,Ground Damage,High,Landing,SDU - Santos Dumont,Monitoring,51.0,0,Severe,389,INV15,No,Yes,320280.09,3,2025,Q1,Sunday,60,High
+EVT0161,2025-03-02,20:52,Model A,PR-MOD251,Pressurization,Low,Landing,CGH - Congonhas,Monitoring,11.0,0,Minor,17,INV04,Yes,Yes,47915.35,3,2025,Q1,Sunday,25,Low
+EVT0162,2025-03-03,19:09,Model D,PR-MOD878,Landing Gear,Low,Climb,VCP - Viracopos,Resolved,1.0,0,None,23,INV13,Yes,Yes,9943.86,3,2025,Q1,Monday,10,Low
+EVT0163,2025-03-04,18:48,Model C,PR-MOD693,Bird Strike,Low,Cruise,SSA - Salvador,Resolved,8.0,0,Minor,22,INV08,No,No,24756.44,3,2025,Q1,Tuesday,15,Low
+EVT0164,2025-03-04,02:30,Model D,PR-MOD552,Severe Turbulence,Low,Post-landing,POA - Porto Alegre,Resolved,9.0,0,None,32,INV11,No,Yes,7632.77,3,2025,Q1,Tuesday,10,Low
+EVT0165,2025-03-05,16:04,Model B,PR-MOD417,Engines,Medium,Descent,GIG - Galeão,Resolved,43.0,0,Moderate,42,INV08,No,Yes,2902.99,3,2025,Q1,Wednesday,30,Moderate
+EVT0166,2025-03-05,09:04,Model F,PR-MOD760,Communication Failure,Low,Descent,SDU - Santos Dumont,Resolved,4.0,0,None,48,INV14,Yes,No,18500.01,3,2025,Q1,Wednesday,10,Low
+EVT0167,2025-03-06,14:37,Model B,PR-MOD667,Weather Diversion,Low,Landing,SSA - Salvador,Resolved,9.0,0,Minor,24,INV13,Yes,Yes,25402.68,3,2025,Q1,Thursday,25,Low
+EVT0168,2025-03-07,10:38,Model A,PR-MOD587,Weather Diversion,Low,Takeoff,CGH - Congonhas,Resolved,13.0,0,Minor,29,INV09,Yes,Yes,32626.69,3,2025,Q1,Friday,25,Low
+EVT0169,2025-03-08,10:45,Model B,PR-MOD186,Pressurization,Low,Landing,GRU - Guarulhos,Monitoring,5.0,0,None,8,INV09,Yes,Yes,5264.74,3,2025,Q1,Saturday,20,Low
+EVT0170,2025-03-08,14:33,Model F,PR-MOD635,Minor Technical Failure,Low,Cruise,CNF - Confins,Resolved,5.0,0,None,42,INV10,Yes,Yes,35410.32,3,2025,Q1,Saturday,10,Low
+EVT0171,2025-03-08,10:43,Model C,PR-MOD712,Near Miss,High,Cruise,CGH - Congonhas,Monitoring,42.0,0,Significant,318,INV01,No,Yes,199834.11,3,2025,Q1,Saturday,45,Moderate
+EVT0172,2025-03-09,21:24,Model C,PR-MOD390,Severe Turbulence,Medium,Takeoff,REC - Recife,Resolved,19.0,0,Minor,86,INV05,Yes,Yes,4815.85,3,2025,Q1,Sunday,35,Moderate
+EVT0173,2025-03-09,04:58,Model B,PR-MOD458,Bird Strike,Low,Taxi,REC - Recife,Resolved,5.0,0,None,22,INV05,No,Yes,29178.7,3,2025,Q1,Sunday,10,Low
+EVT0174,2025-03-09,09:35,Model A,PR-MOD485,Avionics,Critical,Approach,GRU - Guarulhos,Resolved,165.0,2,Severe,457,INV11,No,Yes,469621.08,3,2025,Q1,Sunday,80,Very High
+EVT0175,2025-03-10,23:43,Model A,PR-MOD639,Bird Strike,Low,Taxi,CGH - Congonhas,Resolved,8.0,0,Minor,24,INV02,No,No,35171.26,3,2025,Q1,Monday,15,Low
+EVT0176,2025-03-10,09:11,Model E,PR-MOD319,Ground Damage,Low,Taxi,BSB - Brasília,Resolved,3.0,0,None,28,INV06,No,Yes,1009.7,3,2025,Q1,Monday,10,Low
+EVT0177,2025-03-11,04:04,Model D,PR-MOD402,Communication Failure,Low,Climb,GIG - Galeão,Monitoring,8.0,0,None,10,INV14,Yes,No,49998.83,3,2025,Q1,Tuesday,10,Low
+EVT0178,2025-03-11,16:02,Model B,PR-MOD777,Minor Technical Failure,Low,Approach,SDU - Santos Dumont,Resolved,5.0,0,Minor,17,INV06,Yes,No,41772.48,3,2025,Q1,Tuesday,15,Low
+EVT0179,2025-03-16,05:53,Model A,PR-MOD809,Severe Turbulence,Low,Post-landing,BSB - Brasília,Resolved,1.0,0,None,44,INV13,Yes,No,7797.21,3,2025,Q1,Sunday,10,Low
+EVT0180,2025-03-17,11:43,Model C,PR-MOD836,Electrical System,Low,Approach,FOR - Fortaleza,Monitoring,11.0,0,None,32,INV04,No,No,2280.25,3,2025,Q1,Monday,10,Low
+EVT0181,2025-03-17,14:14,Model E,PR-MOD646,Hydraulic System,Low,Climb,REC - Recife,Resolved,11.0,0,None,12,INV04,No,Yes,37644.32,3,2025,Q1,Monday,10,Low
+EVT0182,2025-03-17,18:28,Model C,PR-MOD572,Communication Failure,Low,Descent,POA - Porto Alegre,Resolved,12.0,0,None,42,INV13,No,Yes,18455.26,3,2025,Q1,Monday,10,Low
+EVT0183,2025-03-18,05:52,Model A,PR-MOD304,Minor Technical Failure,Low,Landing,GIG - Galeão,Resolved,11.0,0,Minor,38,INV13,Yes,Yes,26420.24,3,2025,Q1,Tuesday,25,Low
+EVT0184,2025-03-18,11:35,Model C,PR-MOD205,Electrical System,Low,Approach,CWB - Curitiba,Resolved,7.0,0,None,12,INV12,Yes,Yes,32094.83,3,2025,Q1,Tuesday,10,Low
+EVT0185,2025-03-18,08:28,Model B,PR-MOD625,Near Miss,Medium,Climb,SSA - Salvador,Monitoring,33.0,0,None,99,INV03,No,Yes,38179.53,3,2025,Q1,Tuesday,20,Low
+EVT0186,2025-03-18,11:59,Model B,PR-MOD127,Weather Diversion,Medium,Cruise,CGH - Congonhas,Monitoring,24.0,0,None,51,INV07,Yes,Yes,40853.49,3,2025,Q1,Tuesday,20,Low
+EVT0187,2025-03-18,12:05,Model B,PR-MOD483,Smoke/Fumes,Low,Takeoff,CNF - Confins,Resolved,1.0,0,Minor,16,INV04,Yes,Yes,18760.68,3,2025,Q1,Tuesday,25,Low
+EVT0188,2025-03-18,20:21,Model A,PR-MOD910,Severe Turbulence,Low,Descent,VCP - Viracopos,Monitoring,2.0,0,None,46,INV03,Yes,Yes,41974.9,3,2025,Q1,Tuesday,10,Low
+EVT0189,2025-03-18,15:44,Model D,PR-MOD951,Pressurization,Low,Approach,BSB - Brasília,Resolved,7.0,0,None,32,INV03,No,Yes,45878.07,3,2025,Q1,Tuesday,10,Low
+EVT0190,2025-03-18,02:01,Model A,PR-MOD362,Severe Turbulence,Low,Climb,REC - Recife,Monitoring,2.0,0,Minor,16,INV04,Yes,No,362.03,3,2025,Q1,Tuesday,15,Low
+EVT0191,2025-03-19,13:07,Model C,PR-MOD894,Bird Strike,Low,Approach,CGH - Congonhas,Monitoring,4.0,0,Minor,46,INV05,Yes,Yes,30483.12,3,2025,Q1,Wednesday,15,Low
+EVT0192,2025-03-19,13:40,Model F,PR-MOD912,Smoke/Fumes,Low,Descent,SDU - Santos Dumont,Resolved,12.0,0,None,28,INV10,No,Yes,2482.7,3,2025,Q1,Wednesday,10,Low
+EVT0193,2025-03-20,15:38,Model B,PR-MOD648,Ground Damage,Low,Cruise,CNF - Confins,Resolved,3.0,0,None,57,INV01,Yes,No,41850.72,3,2025,Q1,Thursday,10,Low
+EVT0194,2025-03-21,00:39,Model A,PR-MOD461,Severe Turbulence,Low,Landing,VCP - Viracopos,Resolved,9.0,0,None,17,INV04,No,Yes,14634.47,3,2025,Q1,Friday,20,Low
+EVT0195,2025-03-22,16:23,Model A,PR-MOD169,Weather Diversion,Medium,Landing,CWB - Curitiba,Resolved,26.0,0,Moderate,37,INV09,Yes,Yes,33443.92,3,2025,Q1,Saturday,40,Moderate
+EVT0196,2025-03-23,12:23,Model C,PR-MOD359,Landing Gear,Low,Takeoff,BSB - Brasília,Resolved,12.0,0,None,59,INV12,Yes,Yes,2272.37,3,2025,Q1,Sunday,20,Low
+EVT0197,2025-03-24,23:42,Model A,PR-MOD743,Bird Strike,Low,Cruise,CGH - Congonhas,Resolved,7.0,0,None,43,INV02,No,Yes,17305.64,3,2025,Q1,Monday,10,Low
+EVT0198,2025-03-25,10:52,Model A,PR-MOD758,Weather Diversion,Low,Takeoff,FOR - Fortaleza,Resolved,6.0,0,None,52,INV03,No,No,17679.72,3,2025,Q1,Tuesday,20,Low
+EVT0199,2025-03-25,04:04,Model A,PR-MOD833,Minor Technical Failure,Medium,Takeoff,CNF - Confins,Resolved,30.0,0,Minor,93,INV13,No,Yes,31623.62,3,2025,Q1,Tuesday,35,Moderate
+EVT0200,2025-03-25,06:56,Model E,PR-MOD142,Severe Turbulence,Low,Approach,BSB - Brasília,Monitoring,6.0,0,None,10,INV06,No,No,10159.39,3,2025,Q1,Tuesday,10,Low
+EVT0201,2025-03-25,17:30,Model F,PR-MOD359,Bird Strike,Low,Taxi,POA - Porto Alegre,Resolved,6.0,0,None,19,INV01,Yes,Yes,49457.22,3,2025,Q1,Tuesday,10,Low
+EVT0202,2025-03-25,01:55,Model A,PR-MOD771,Hydraulic System,Medium,Cruise,POA - Porto Alegre,Resolved,42.0,0,Minor,106,INV06,No,Yes,43120.71,3,2025,Q1,Tuesday,25,Low
+EVT0203,2025-03-27,12:47,Model C,PR-MOD550,Minor Technical Failure,Low,Takeoff,POA - Porto Alegre,Resolved,14.0,0,None,14,INV15,No,Yes,21903.87,3,2025,Q1,Thursday,20,Low
+EVT0204,2025-03-28,15:23,Model C,PR-MOD916,Bird Strike,Low,Approach,REC - Recife,Monitoring,3.0,0,None,8,INV09,No,Yes,24860.54,3,2025,Q1,Friday,10,Low
+EVT0205,2025-03-29,13:38,Model D,PR-MOD942,Bird Strike,Low,Approach,CGH - Congonhas,Monitoring,8.0,0,Minor,27,INV03,No,Yes,21282.53,3,2025,Q1,Saturday,15,Low
+EVT0206,2025-03-31,21:18,Model A,PR-MOD413,Severe Turbulence,Low,Takeoff,CNF - Confins,Resolved,4.0,0,None,5,INV08,No,Yes,4095.44,3,2025,Q1,Monday,20,Low
+EVT0207,2025-04-02,14:02,Model C,PR-MOD844,Minor Technical Failure,Low,Approach,VCP - Viracopos,Resolved,10.0,0,Minor,17,INV14,No,No,22251.03,4,2025,Q2,Wednesday,15,Low
+EVT0208,2025-04-02,01:04,Model E,PR-MOD787,Severe Turbulence,Low,Cruise,FOR - Fortaleza,Resolved,10.0,0,None,45,INV11,No,Yes,13800.31,4,2025,Q2,Wednesday,10,Low
+EVT0209,2025-04-03,21:10,Model A,PR-MOD131,Engines,Medium,Descent,FOR - Fortaleza,Resolved,27.0,0,Moderate,179,INV03,No,Yes,40074.69,4,2025,Q2,Thursday,30,Moderate
+EVT0210,2025-04-04,20:23,Model A,PR-MOD470,Runway Incursion,Medium,Landing,VCP - Viracopos,Resolved,44.0,0,None,126,INV07,Yes,No,3454.94,4,2025,Q2,Friday,30,Moderate
+EVT0211,2025-04-05,11:23,Model B,PR-MOD554,Bird Strike,Medium,Cruise,VCP - Viracopos,Resolved,33.0,0,None,33,INV13,Yes,No,33985.2,4,2025,Q2,Saturday,20,Low
+EVT0212,2025-04-05,12:20,Model C,PR-MOD765,Hydraulic System,Low,Takeoff,SDU - Santos Dumont,Resolved,3.0,0,None,35,INV05,Yes,Yes,26520.05,4,2025,Q2,Saturday,20,Low
+EVT0213,2025-04-06,15:33,Model C,PR-MOD496,Minor Technical Failure,Low,Climb,BSB - Brasília,Resolved,4.0,0,None,41,INV15,Yes,Yes,36810.18,4,2025,Q2,Sunday,10,Low
+EVT0214,2025-04-09,06:39,Model B,PR-MOD392,Severe Turbulence,Low,Taxi,BSB - Brasília,Resolved,2.0,0,None,14,INV12,No,Yes,35231.49,4,2025,Q2,Wednesday,10,Low
+EVT0215,2025-04-09,02:28,Model C,PR-MOD276,Hydraulic System,Low,Takeoff,SSA - Salvador,Resolved,10.0,0,None,13,INV15,No,Yes,6872.85,4,2025,Q2,Wednesday,20,Low
+EVT0216,2025-04-11,10:42,Model B,PR-MOD455,Minor Technical Failure,Low,Approach,FOR - Fortaleza,Monitoring,6.0,0,Minor,46,INV12,Yes,No,48381.31,4,2025,Q2,Friday,15,Low
+EVT0217,2025-04-12,09:54,Model A,PR-MOD261,Ground Damage,Low,Cruise,GIG - Galeão,Resolved,1.0,0,Minor,56,INV12,Yes,Yes,14589.08,4,2025,Q2,Saturday,15,Low
+EVT0218,2025-04-12,06:50,Model C,PR-MOD242,Landing Gear,Low,Landing,CWB - Curitiba,Resolved,12.0,0,Minor,44,INV04,No,Yes,11289.66,4,2025,Q2,Saturday,25,Low
+EVT0219,2025-04-13,11:29,Model B,PR-MOD922,Engines,Medium,Taxi,GRU - Guarulhos,Resolved,38.0,0,Minor,123,INV09,Yes,No,27745.67,4,2025,Q2,Sunday,25,Low
+EVT0220,2025-04-13,12:45,Model E,PR-MOD836,Minor Technical Failure,Low,Cruise,REC - Recife,Resolved,9.0,0,None,19,INV08,No,Yes,3380.83,4,2025,Q2,Sunday,10,Low
+EVT0221,2025-04-13,10:41,Model C,PR-MOD175,Ground Damage,Low,Post-landing,VCP - Viracopos,Monitoring,1.0,0,Minor,43,INV08,No,No,3780.16,4,2025,Q2,Sunday,15,Low
+EVT0222,2025-04-13,17:40,Model C,PR-MOD701,Landing Gear,Low,Taxi,SDU - Santos Dumont,Resolved,4.0,0,Minor,1,INV03,Yes,Yes,17291.29,4,2025,Q2,Sunday,15,Low
+EVT0223,2025-04-17,01:53,Model A,PR-MOD227,Communication Failure,Low,Descent,GRU - Guarulhos,Resolved,6.0,0,Minor,58,INV09,Yes,Yes,45544.54,4,2025,Q2,Thursday,15,Low
+EVT0224,2025-04-18,22:14,Model A,PR-MOD454,Weather Diversion,Low,Climb,GIG - Galeão,Resolved,5.0,0,None,58,INV09,No,Yes,8182.15,4,2025,Q2,Friday,10,Low
+EVT0225,2025-04-21,17:17,Model C,PR-MOD228,Severe Turbulence,High,Landing,VCP - Viracopos,Resolved,85.0,0,Moderate,297,INV11,No,No,321177.97,4,2025,Q2,Monday,50,High
+EVT0226,2025-04-22,20:10,Model A,PR-MOD706,Weather Diversion,Low,Cruise,SSA - Salvador,Resolved,4.0,0,Minor,41,INV10,Yes,Yes,4762.08,4,2025,Q2,Tuesday,15,Low
+EVT0227,2025-04-24,19:21,Model D,PR-MOD962,Bird Strike,Low,Landing,CNF - Confins,Resolved,13.0,0,Minor,4,INV15,Yes,Yes,31261.51,4,2025,Q2,Thursday,25,Low
+EVT0228,2025-04-25,20:49,Model F,PR-MOD690,Severe Turbulence,Low,Takeoff,GRU - Guarulhos,Resolved,11.0,0,None,49,INV05,Yes,No,2368.54,4,2025,Q2,Friday,20,Low
+EVT0229,2025-04-25,00:31,Model D,PR-MOD742,Electrical System,Low,Cruise,GRU - Guarulhos,Monitoring,11.0,0,None,45,INV09,No,No,30943.61,4,2025,Q2,Friday,10,Low
+EVT0230,2025-04-26,21:25,Model D,PR-MOD404,Ground Damage,Medium,Taxi,GRU - Guarulhos,Resolved,14.0,0,Minor,92,INV08,Yes,No,24198.95,4,2025,Q2,Saturday,25,Low
+EVT0231,2025-04-26,13:30,Model D,PR-MOD575,Minor Technical Failure,Low,Cruise,GIG - Galeão,Resolved,13.0,0,None,10,INV04,No,No,7988.21,4,2025,Q2,Saturday,10,Low
+EVT0232,2025-04-27,22:20,Model C,PR-MOD851,Minor Technical Failure,Low,Taxi,SSA - Salvador,Monitoring,6.0,0,None,12,INV14,No,Yes,15697.87,4,2025,Q2,Sunday,10,Low
+EVT0233,2025-04-28,16:35,Model A,PR-MOD208,Minor Technical Failure,Low,Landing,GRU - Guarulhos,Resolved,6.0,0,None,20,INV06,Yes,Yes,38057.18,4,2025,Q2,Monday,20,Low
+EVT0234,2025-04-30,07:09,Model C,PR-MOD199,Minor Technical Failure,Low,Taxi,GRU - Guarulhos,Resolved,12.0,0,None,32,INV01,No,Yes,13446.84,4,2025,Q2,Wednesday,10,Low
+EVT0235,2025-05-03,05:52,Model C,PR-MOD435,Minor Technical Failure,Low,Takeoff,REC - Recife,Resolved,8.0,0,Minor,9,INV15,No,Yes,20964.92,5,2025,Q2,Saturday,25,Low
+EVT0236,2025-05-03,16:29,Model C,PR-MOD610,Minor Technical Failure,Low,Takeoff,REC - Recife,Monitoring,6.0,0,None,28,INV15,No,Yes,24963.45,5,2025,Q2,Saturday,20,Low
+EVT0237,2025-05-05,12:32,Model C,PR-MOD568,Minor Technical Failure,Low,Post-landing,SSA - Salvador,Resolved,12.0,0,None,42,INV04,Yes,No,4593.45,5,2025,Q2,Monday,10,Low
+EVT0238,2025-05-05,09:31,Model F,PR-MOD711,Electrical System,Low,Landing,SDU - Santos Dumont,Monitoring,13.0,0,None,42,INV15,No,Yes,2528.04,5,2025,Q2,Monday,20,Low
+EVT0239,2025-05-07,03:27,Model E,PR-MOD237,Engines,Medium,Approach,BSB - Brasília,Resolved,24.0,0,Moderate,170,INV15,No,No,508.05,5,2025,Q2,Wednesday,30,Moderate
+EVT0240,2025-05-07,11:02,Model B,PR-MOD510,Bird Strike,Low,Landing,VCP - Viracopos,Resolved,4.0,0,None,28,INV01,Yes,Yes,38216.45,5,2025,Q2,Wednesday,20,Low
+EVT0241,2025-05-07,12:32,Model C,PR-MOD561,Weather Diversion,Low,Cruise,POA - Porto Alegre,Resolved,2.0,0,Minor,12,INV13,No,No,14501.22,5,2025,Q2,Wednesday,15,Low
+EVT0242,2025-05-08,04:06,Model C,PR-MOD503,Bird Strike,Low,Landing,FOR - Fortaleza,Resolved,10.0,0,Minor,30,INV06,No,No,30591.05,5,2025,Q2,Thursday,25,Low
+EVT0243,2025-05-08,06:38,Model E,PR-MOD621,Hydraulic System,Low,Approach,GRU - Guarulhos,Resolved,4.0,0,None,6,INV07,Yes,Yes,37772.76,5,2025,Q2,Thursday,10,Low
+EVT0244,2025-05-11,10:51,Model A,PR-MOD585,Minor Technical Failure,Low,Descent,CNF - Confins,Resolved,13.0,0,None,53,INV09,No,Yes,6938.12,5,2025,Q2,Sunday,10,Low
+EVT0245,2025-05-11,04:20,Model C,PR-MOD727,Ground Damage,Low,Post-landing,FOR - Fortaleza,Resolved,8.0,0,Minor,41,INV06,Yes,Yes,44667.27,5,2025,Q2,Sunday,15,Low
+EVT0246,2025-05-11,09:37,Model D,PR-MOD444,Minor Technical Failure,Low,Cruise,SSA - Salvador,Resolved,2.0,0,Minor,35,INV09,No,No,36992.04,5,2025,Q2,Sunday,15,Low
+EVT0247,2025-05-13,00:23,Model C,PR-MOD439,Smoke/Fumes,Low,Landing,GRU - Guarulhos,Resolved,1.0,0,Minor,4,INV11,Yes,Yes,15059.55,5,2025,Q2,Tuesday,25,Low
+EVT0248,2025-05-13,23:55,Model A,PR-MOD804,Pressurization,Low,Landing,BSB - Brasília,Resolved,1.0,0,Minor,36,INV11,Yes,No,15453.12,5,2025,Q2,Tuesday,25,Low
+EVT0249,2025-05-15,20:50,Model A,PR-MOD894,Ground Damage,Low,Approach,REC - Recife,Resolved,14.0,0,None,56,INV10,Yes,No,13349.97,5,2025,Q2,Thursday,10,Low
+EVT0250,2025-05-16,05:33,Model C,PR-MOD744,Near Miss,Medium,Landing,REC - Recife,Resolved,12.0,0,None,154,INV12,No,Yes,29217.81,5,2025,Q2,Friday,30,Moderate
+EVT0251,2025-05-16,22:07,Model A,PR-MOD295,Smoke/Fumes,Critical,Takeoff,SSA - Salvador,Resolved,78.0,0,Moderate,221,INV01,No,Yes,290559.43,5,2025,Q2,Friday,60,High
+EVT0252,2025-05-16,22:13,Model C,PR-MOD520,Hydraulic System,Low,Taxi,CWB - Curitiba,Resolved,4.0,0,None,7,INV09,No,No,7656.42,5,2025,Q2,Friday,10,Low
+EVT0253,2025-05-16,04:33,Model B,PR-MOD312,Severe Turbulence,Low,Cruise,CWB - Curitiba,Resolved,12.0,0,Minor,4,INV09,No,No,3207.84,5,2025,Q2,Friday,15,Low
+EVT0254,2025-05-17,10:11,Model C,PR-MOD570,Ground Damage,Low,Climb,CNF - Confins,Resolved,3.0,0,None,57,INV15,No,No,26321.31,5,2025,Q2,Saturday,10,Low
+EVT0255,2025-05-19,23:43,Model C,PR-MOD758,Smoke/Fumes,Critical,Approach,CGH - Congonhas,Monitoring,140.0,0,Severe,590,INV13,No,No,388274.99,5,2025,Q2,Monday,60,High
+EVT0256,2025-05-21,07:17,Model F,PR-MOD671,Bird Strike,Low,Taxi,SSA - Salvador,Resolved,13.0,0,None,46,INV05,Yes,Yes,9693.98,5,2025,Q2,Wednesday,10,Low
+EVT0257,2025-05-24,22:45,Model B,PR-MOD600,Weather Diversion,Low,Post-landing,CGH - Congonhas,Resolved,12.0,0,None,11,INV06,No,Yes,35274.56,5,2025,Q2,Saturday,10,Low
+EVT0258,2025-05-24,23:17,Model A,PR-MOD394,Weather Diversion,Low,Cruise,FOR - Fortaleza,Resolved,3.0,0,Minor,4,INV02,No,Yes,46691.65,5,2025,Q2,Saturday,15,Low
+EVT0259,2025-05-26,04:18,Model C,PR-MOD143,Hydraulic System,Low,Post-landing,SSA - Salvador,Resolved,4.0,0,None,17,INV05,Yes,Yes,47734.98,5,2025,Q2,Monday,10,Low
+EVT0260,2025-05-26,23:30,Model C,PR-MOD319,Landing Gear,Low,Cruise,GRU - Guarulhos,Resolved,4.0,0,None,13,INV04,No,No,32833.01,5,2025,Q2,Monday,10,Low
+EVT0261,2025-05-27,03:39,Model B,PR-MOD858,Severe Turbulence,Low,Taxi,CWB - Curitiba,Monitoring,2.0,0,Minor,8,INV10,Yes,Yes,13653.91,5,2025,Q2,Tuesday,15,Low
+EVT0262,2025-05-27,16:14,Model E,PR-MOD753,Electrical System,Low,Approach,CWB - Curitiba,Resolved,2.0,0,None,34,INV04,Yes,Yes,33524.71,5,2025,Q2,Tuesday,10,Low
+EVT0263,2025-05-28,15:06,Model B,PR-MOD797,Ground Damage,Low,Approach,GIG - Galeão,Monitoring,12.0,0,None,41,INV13,Yes,Yes,16581.65,5,2025,Q2,Wednesday,10,Low
+EVT0264,2025-05-28,05:26,Model C,PR-MOD768,Ground Damage,Low,Landing,CGH - Congonhas,Monitoring,14.0,0,Minor,15,INV15,No,Yes,48897.74,5,2025,Q2,Wednesday,25,Low
+EVT0265,2025-05-30,09:20,Model A,PR-MOD392,Electrical System,Low,Approach,CGH - Congonhas,Resolved,11.0,0,Minor,17,INV11,Yes,Yes,10052.85,5,2025,Q2,Friday,15,Low
+EVT0266,2025-05-30,17:47,Model C,PR-MOD840,Ground Damage,Medium,Taxi,CNF - Confins,Monitoring,42.0,0,Moderate,43,INV14,Yes,Yes,28749.25,5,2025,Q2,Friday,30,Moderate
+EVT0267,2025-06-01,05:59,Model F,PR-MOD137,Electrical System,Low,Takeoff,FOR - Fortaleza,Resolved,6.0,0,None,52,INV14,No,Yes,44124.02,6,2025,Q2,Sunday,20,Low
+EVT0268,2025-06-05,09:56,Model A,PR-MOD138,Weather Diversion,Low,Post-landing,VCP - Viracopos,Resolved,13.0,0,None,31,INV01,No,No,46836.78,6,2025,Q2,Thursday,10,Low
+EVT0269,2025-06-05,10:18,Model B,PR-MOD565,Severe Turbulence,Low,Descent,CWB - Curitiba,Monitoring,12.0,0,Minor,31,INV11,No,Yes,5454.3,6,2025,Q2,Thursday,15,Low
+EVT0270,2025-06-07,06:51,Model A,PR-MOD215,Ground Damage,Low,Takeoff,REC - Recife,Resolved,3.0,0,Minor,33,INV06,Yes,No,23454.24,6,2025,Q2,Saturday,25,Low
+EVT0271,2025-06-07,05:00,Model A,PR-MOD854,Bird Strike,High,Climb,REC - Recife,Resolved,85.0,1,Severe,590,INV06,No,No,136059.79,6,2025,Q2,Saturday,70,Very High
+EVT0272,2025-06-07,05:39,Model B,PR-MOD976,Bird Strike,Low,Cruise,GRU - Guarulhos,Resolved,3.0,0,Minor,15,INV11,No,Yes,37888.41,6,2025,Q2,Saturday,15,Low
+EVT0273,2025-06-07,21:06,Model D,PR-MOD289,Weather Diversion,High,Cruise,CGH - Congonhas,Resolved,68.0,2,Significant,340,INV03,No,Yes,52501.51,6,2025,Q2,Saturday,65,High
+EVT0274,2025-06-07,12:15,Model A,PR-MOD557,Weather Diversion,Low,Landing,CWB - Curitiba,Resolved,4.0,0,None,34,INV13,No,Yes,440.82,6,2025,Q2,Saturday,20,Low
+EVT0275,2025-06-07,18:00,Model D,PR-MOD367,Minor Technical Failure,Low,Takeoff,CWB - Curitiba,Monitoring,6.0,0,None,54,INV11,No,No,29164.79,6,2025,Q2,Saturday,20,Low
+EVT0276,2025-06-07,03:29,Model C,PR-MOD414,Minor Technical Failure,Low,Descent,GRU - Guarulhos,Resolved,7.0,0,None,38,INV03,No,No,3200.0,6,2025,Q2,Saturday,10,Low
+EVT0277,2025-06-07,22:49,Model C,PR-MOD418,Severe Turbulence,Low,Post-landing,CGH - Congonhas,Monitoring,5.0,0,Minor,44,INV12,Yes,No,46162.99,6,2025,Q2,Saturday,15,Low
+EVT0278,2025-06-09,07:14,Model C,PR-MOD236,Minor Technical Failure,Low,Descent,POA - Porto Alegre,Monitoring,5.0,0,None,54,INV08,Yes,Yes,18440.44,6,2025,Q2,Monday,10,Low
+EVT0279,2025-06-10,11:26,Model A,PR-MOD818,Bird Strike,Low,Descent,CGH - Congonhas,Resolved,2.0,0,Minor,40,INV09,No,No,49443.01,6,2025,Q2,Tuesday,15,Low
+EVT0280,2025-06-11,07:43,Model F,PR-MOD872,Landing Gear,Low,Post-landing,REC - Recife,Monitoring,1.0,0,Minor,16,INV10,Yes,No,41297.62,6,2025,Q2,Wednesday,15,Low
+EVT0281,2025-06-11,11:04,Model A,PR-MOD677,Communication Failure,Low,Post-landing,VCP - Viracopos,Monitoring,1.0,0,None,57,INV02,Yes,No,26455.84,6,2025,Q2,Wednesday,10,Low
+EVT0282,2025-06-13,17:09,Model B,PR-MOD268,Hydraulic System,Low,Taxi,GRU - Guarulhos,Monitoring,8.0,0,Minor,7,INV06,No,Yes,10187.62,6,2025,Q2,Friday,15,Low
+EVT0283,2025-06-15,18:31,Model A,PR-MOD193,Bird Strike,Low,Post-landing,FOR - Fortaleza,Resolved,12.0,0,Minor,36,INV15,No,Yes,10349.53,6,2025,Q2,Sunday,15,Low
+EVT0284,2025-06-15,13:29,Model A,PR-MOD677,Bird Strike,Low,Descent,CGH - Congonhas,Resolved,8.0,0,None,16,INV01,No,No,6684.02,6,2025,Q2,Sunday,10,Low
+EVT0285,2025-06-17,12:16,Model B,PR-MOD936,Pressurization,Low,Landing,BSB - Brasília,Monitoring,11.0,0,None,18,INV01,Yes,No,36191.68,6,2025,Q2,Tuesday,20,Low
+EVT0286,2025-06-17,11:44,Model A,PR-MOD165,Bird Strike,Low,Post-landing,POA - Porto Alegre,Monitoring,14.0,0,None,7,INV09,Yes,Yes,2359.96,6,2025,Q2,Tuesday,10,Low
+EVT0287,2025-06-20,13:11,Model F,PR-MOD887,Bird Strike,Low,Taxi,GIG - Galeão,Resolved,8.0,0,None,24,INV03,No,Yes,1683.57,6,2025,Q2,Friday,10,Low
+EVT0288,2025-06-20,12:24,Model B,PR-MOD182,Smoke/Fumes,Low,Taxi,POA - Porto Alegre,Resolved,4.0,0,None,40,INV11,Yes,No,22482.0,6,2025,Q2,Friday,10,Low
+EVT0289,2025-06-22,17:25,Model B,PR-MOD641,Weather Diversion,Low,Takeoff,CNF - Confins,Resolved,4.0,0,None,39,INV03,Yes,Yes,6019.8,6,2025,Q2,Sunday,20,Low
+EVT0290,2025-06-23,14:43,Model C,PR-MOD836,Weather Diversion,Medium,Takeoff,GRU - Guarulhos,Resolved,41.0,0,None,40,INV09,No,No,48926.69,6,2025,Q2,Monday,30,Moderate
+EVT0291,2025-06-23,07:29,Model B,PR-MOD454,Avionics,Low,Taxi,GIG - Galeão,Resolved,11.0,0,None,57,INV03,No,Yes,41185.69,6,2025,Q2,Monday,10,Low
+EVT0292,2025-06-23,01:51,Model A,PR-MOD776,Communication Failure,Low,Descent,BSB - Brasília,Monitoring,3.0,0,Minor,55,INV07,Yes,Yes,38297.95,6,2025,Q2,Monday,15,Low
+EVT0293,2025-06-25,19:02,Model E,PR-MOD557,Smoke/Fumes,Low,Descent,SDU - Santos Dumont,Monitoring,12.0,0,None,17,INV10,Yes,Yes,3457.82,6,2025,Q2,Wednesday,10,Low
+EVT0294,2025-06-25,17:13,Model C,PR-MOD872,Runway Incursion,High,Post-landing,CNF - Confins,Resolved,52.0,0,Significant,322,INV14,Yes,Yes,225091.78,6,2025,Q2,Wednesday,45,Moderate
+EVT0295,2025-06-25,07:52,Model C,PR-MOD849,Pressurization,Low,Descent,CGH - Congonhas,Resolved,13.0,0,Minor,28,INV10,No,No,49674.82,6,2025,Q2,Wednesday,15,Low
+EVT0296,2025-06-26,10:15,Model C,PR-MOD409,Electrical System,Low,Climb,SDU - Santos Dumont,Resolved,8.0,0,Minor,21,INV15,Yes,No,38649.66,6,2025,Q2,Thursday,15,Low
+EVT0297,2025-06-27,09:17,Model B,PR-MOD162,Ground Damage,Low,Landing,VCP - Viracopos,Resolved,3.0,0,Minor,29,INV09,Yes,No,11130.03,6,2025,Q2,Friday,25,Low
+EVT0298,2025-06-27,15:03,Model A,PR-MOD452,Ground Damage,Low,Taxi,VCP - Viracopos,Resolved,10.0,0,Minor,7,INV11,No,No,21417.31,6,2025,Q2,Friday,15,Low
+EVT0299,2025-06-30,04:19,Model A,PR-MOD485,Pressurization,Critical,Takeoff,GIG - Galeão,Corrective Action,155.0,0,Severe,439,INV03,No,Yes,213999.07,6,2025,Q2,Monday,70,Very High
+EVT0300,2025-06-30,22:09,Model D,PR-MOD925,Severe Turbulence,Low,Taxi,REC - Recife,Resolved,7.0,0,None,1,INV08,Yes,No,15106.75,6,2025,Q2,Monday,10,Low
+EVT0301,2025-07-03,17:33,Model D,PR-MOD237,Weather Diversion,Low,Approach,REC - Recife,Monitoring,6.0,0,None,13,INV07,Yes,Yes,48392.53,7,2025,Q3,Thursday,10,Low
+EVT0302,2025-07-03,02:59,Model B,PR-MOD560,Communication Failure,Low,Post-landing,BSB - Brasília,Monitoring,3.0,0,None,5,INV14,No,Yes,16580.12,7,2025,Q3,Thursday,10,Low
+EVT0303,2025-07-04,06:03,Model B,PR-MOD374,Near Miss,Medium,Approach,SDU - Santos Dumont,Resolved,29.0,0,Moderate,66,INV07,Yes,Yes,36256.78,7,2025,Q3,Friday,30,Moderate
+EVT0304,2025-07-05,18:46,Model A,PR-MOD787,Bird Strike,Low,Descent,CGH - Congonhas,Resolved,14.0,0,None,56,INV09,Yes,Yes,40252.07,7,2025,Q3,Saturday,10,Low
+EVT0305,2025-07-07,10:19,Model C,PR-MOD115,Minor Technical Failure,Low,Takeoff,SSA - Salvador,Resolved,3.0,0,None,15,INV04,Yes,No,43486.75,7,2025,Q3,Monday,20,Low
+EVT0306,2025-07-09,15:58,Model B,PR-MOD348,Smoke/Fumes,Low,Cruise,VCP - Viracopos,Monitoring,14.0,0,None,30,INV12,Yes,Yes,37369.27,7,2025,Q3,Wednesday,10,Low
+EVT0307,2025-07-09,09:24,Model A,PR-MOD577,Severe Turbulence,Low,Takeoff,CNF - Confins,Resolved,8.0,0,None,29,INV09,No,Yes,27648.76,7,2025,Q3,Wednesday,20,Low
+EVT0308,2025-07-09,15:29,Model C,PR-MOD200,Severe Turbulence,Low,Taxi,SSA - Salvador,Resolved,13.0,0,None,54,INV13,No,Yes,18046.27,7,2025,Q3,Wednesday,10,Low
+EVT0309,2025-07-10,13:02,Model A,PR-MOD676,Severe Turbulence,Low,Taxi,VCP - Viracopos,Resolved,12.0,0,None,10,INV14,Yes,No,18598.18,7,2025,Q3,Thursday,10,Low
+EVT0310,2025-07-11,17:59,Model C,PR-MOD698,Severe Turbulence,Low,Landing,CNF - Confins,Resolved,4.0,0,None,26,INV10,No,Yes,909.37,7,2025,Q3,Friday,20,Low
+EVT0311,2025-07-11,12:36,Model D,PR-MOD953,Near Miss,High,Takeoff,GIG - Galeão,Resolved,55.0,0,Moderate,180,INV04,No,No,171633.99,7,2025,Q3,Friday,50,High
+EVT0312,2025-07-13,10:16,Model C,PR-MOD881,Bird Strike,Low,Climb,BSB - Brasília,Resolved,6.0,0,Minor,16,INV14,No,No,47178.88,7,2025,Q3,Sunday,15,Low
+EVT0313,2025-07-16,14:10,Model B,PR-MOD850,Communication Failure,Low,Cruise,GRU - Guarulhos,Resolved,3.0,0,Minor,36,INV13,No,Yes,37005.75,7,2025,Q3,Wednesday,15,Low
+EVT0314,2025-07-17,15:11,Model D,PR-MOD655,Minor Technical Failure,Medium,Takeoff,BSB - Brasília,Resolved,35.0,0,None,68,INV11,Yes,No,36043.65,7,2025,Q3,Thursday,30,Moderate
+EVT0315,2025-07-18,02:52,Model D,PR-MOD784,Minor Technical Failure,Low,Cruise,REC - Recife,Resolved,6.0,0,None,43,INV01,Yes,Yes,41969.52,7,2025,Q3,Friday,10,Low
+EVT0316,2025-07-19,07:04,Model F,PR-MOD824,Pressurization,Low,Approach,CNF - Confins,Resolved,14.0,0,None,41,INV03,Yes,Yes,42142.98,7,2025,Q3,Saturday,10,Low
+EVT0317,2025-07-19,01:39,Model E,PR-MOD753,Severe Turbulence,Low,Approach,POA - Porto Alegre,Monitoring,8.0,0,Minor,15,INV11,No,No,22854.88,7,2025,Q3,Saturday,15,Low
+EVT0318,2025-07-20,17:35,Model A,PR-MOD521,Landing Gear,Low,Takeoff,POA - Porto Alegre,Resolved,4.0,0,None,19,INV01,Yes,No,885.02,7,2025,Q3,Sunday,20,Low
+EVT0319,2025-07-20,09:01,Model B,PR-MOD614,Weather Diversion,Low,Takeoff,FOR - Fortaleza,Resolved,11.0,0,Minor,14,INV14,No,Yes,13809.56,7,2025,Q3,Sunday,25,Low
+EVT0320,2025-07-20,16:09,Model E,PR-MOD346,Weather Diversion,Low,Post-landing,REC - Recife,Resolved,5.0,0,None,43,INV04,No,Yes,45910.64,7,2025,Q3,Sunday,10,Low
+EVT0321,2025-07-21,02:23,Model A,PR-MOD515,Weather Diversion,Medium,Climb,BSB - Brasília,Resolved,32.0,0,Minor,78,INV08,Yes,No,39767.32,7,2025,Q3,Monday,25,Low
+EVT0322,2025-07-21,02:41,Model B,PR-MOD978,Runway Incursion,Medium,Takeoff,REC - Recife,Resolved,42.0,0,None,156,INV11,Yes,Yes,15068.73,7,2025,Q3,Monday,30,Moderate
+EVT0323,2025-07-24,17:30,Model C,PR-MOD157,Landing Gear,Low,Takeoff,CWB - Curitiba,Resolved,13.0,0,None,27,INV11,Yes,No,19025.27,7,2025,Q3,Thursday,20,Low
+EVT0324,2025-07-25,13:41,Model C,PR-MOD903,Bird Strike,Low,Taxi,POA - Porto Alegre,Resolved,6.0,0,None,33,INV06,Yes,No,4226.04,7,2025,Q3,Friday,10,Low
+EVT0325,2025-07-28,22:56,Model D,PR-MOD680,Bird Strike,Medium,Post-landing,BSB - Brasília,Resolved,11.0,0,None,173,INV08,No,Yes,11565.35,7,2025,Q3,Monday,20,Low
+EVT0326,2025-07-31,08:57,Model A,PR-MOD656,Smoke/Fumes,Low,Takeoff,BSB - Brasília,Resolved,8.0,0,None,58,INV10,Yes,Yes,34252.99,7,2025,Q3,Thursday,20,Low
+EVT0327,2025-07-31,06:37,Model A,PR-MOD247,Bird Strike,Low,Landing,CGH - Congonhas,Monitoring,7.0,0,None,25,INV13,No,Yes,881.34,7,2025,Q3,Thursday,20,Low
+EVT0328,2025-07-31,07:36,Model A,PR-MOD954,Pressurization,Low,Cruise,CWB - Curitiba,Resolved,5.0,0,None,51,INV14,No,No,8206.27,7,2025,Q3,Thursday,10,Low
+EVT0329,2025-08-01,23:08,Model D,PR-MOD909,Communication Failure,Low,Post-landing,BSB - Brasília,Resolved,1.0,0,Minor,24,INV12,Yes,No,16653.32,8,2025,Q3,Friday,15,Low
+EVT0330,2025-08-01,01:06,Model B,PR-MOD547,Avionics,Low,Taxi,CWB - Curitiba,Resolved,6.0,0,Minor,22,INV04,Yes,Yes,48718.73,8,2025,Q3,Friday,15,Low
+EVT0331,2025-08-02,19:25,Model F,PR-MOD892,Minor Technical Failure,Low,Post-landing,VCP - Viracopos,Resolved,8.0,0,Minor,7,INV06,Yes,No,38473.38,8,2025,Q3,Saturday,15,Low
+EVT0332,2025-08-03,14:31,Model C,PR-MOD333,Hydraulic System,Low,Post-landing,FOR - Fortaleza,Resolved,7.0,0,None,14,INV06,No,Yes,39199.05,8,2025,Q3,Sunday,10,Low
+EVT0333,2025-08-04,21:24,Model C,PR-MOD187,Weather Diversion,Low,Descent,BSB - Brasília,Resolved,2.0,0,None,2,INV13,No,Yes,34016.77,8,2025,Q3,Monday,10,Low
+EVT0334,2025-08-04,08:09,Model C,PR-MOD489,Engines,Medium,Descent,VCP - Viracopos,Resolved,37.0,0,Moderate,37,INV12,Yes,No,3767.98,8,2025,Q3,Monday,30,Moderate
+EVT0335,2025-08-04,03:05,Model D,PR-MOD105,Electrical System,Low,Taxi,VCP - Viracopos,Resolved,14.0,0,None,31,INV05,No,Yes,15902.24,8,2025,Q3,Monday,10,Low
+EVT0336,2025-08-05,02:11,Model F,PR-MOD541,Pressurization,Low,Approach,GIG - Galeão,Monitoring,13.0,0,None,20,INV08,No,Yes,5201.35,8,2025,Q3,Tuesday,10,Low
+EVT0337,2025-08-05,17:05,Model B,PR-MOD711,Bird Strike,Low,Taxi,BSB - Brasília,Resolved,7.0,0,None,4,INV10,No,Yes,4571.98,8,2025,Q3,Tuesday,10,Low
+EVT0338,2025-08-06,12:49,Model E,PR-MOD186,Weather Diversion,Low,Descent,VCP - Viracopos,Resolved,14.0,0,None,34,INV12,Yes,No,14663.18,8,2025,Q3,Wednesday,10,Low
+EVT0339,2025-08-06,12:10,Model C,PR-MOD242,Landing Gear,Low,Climb,GIG - Galeão,Resolved,3.0,0,Minor,56,INV05,No,Yes,8562.19,8,2025,Q3,Wednesday,15,Low
+EVT0340,2025-08-06,05:27,Model B,PR-MOD382,Electrical System,Low,Cruise,POA - Porto Alegre,Monitoring,2.0,0,None,11,INV07,No,Yes,7382.15,8,2025,Q3,Wednesday,10,Low
+EVT0341,2025-08-06,07:46,Model A,PR-MOD740,Severe Turbulence,Low,Takeoff,REC - Recife,Resolved,1.0,0,None,51,INV08,Yes,Yes,18120.13,8,2025,Q3,Wednesday,20,Low
+EVT0342,2025-08-07,00:25,Model C,PR-MOD440,Pressurization,Low,Taxi,SDU - Santos Dumont,Resolved,7.0,0,None,21,INV14,No,Yes,6860.93,8,2025,Q3,Thursday,10,Low
+EVT0343,2025-08-08,20:38,Model B,PR-MOD239,Electrical System,Low,Takeoff,GIG - Galeão,Resolved,1.0,0,None,15,INV05,No,No,16803.34,8,2025,Q3,Friday,20,Low
+EVT0344,2025-08-09,10:11,Model C,PR-MOD507,Severe Turbulence,Low,Taxi,FOR - Fortaleza,Monitoring,6.0,0,Minor,59,INV06,No,No,10122.49,8,2025,Q3,Saturday,15,Low
+EVT0345,2025-08-09,18:50,Model B,PR-MOD348,Bird Strike,Low,Landing,SDU - Santos Dumont,Resolved,10.0,0,Minor,37,INV06,No,Yes,31681.83,8,2025,Q3,Saturday,25,Low
+EVT0346,2025-08-09,18:12,Model C,PR-MOD706,Bird Strike,Low,Landing,REC - Recife,Monitoring,14.0,0,None,16,INV09,Yes,No,18314.28,8,2025,Q3,Saturday,20,Low
+EVT0347,2025-08-11,23:29,Model B,PR-MOD825,Hydraulic System,Low,Landing,CWB - Curitiba,Monitoring,1.0,0,Minor,26,INV04,No,Yes,1443.11,8,2025,Q3,Monday,25,Low
+EVT0348,2025-08-11,13:43,Model B,PR-MOD611,Bird Strike,Low,Climb,CWB - Curitiba,Resolved,4.0,0,Minor,34,INV03,No,Yes,3551.02,8,2025,Q3,Monday,15,Low
+EVT0349,2025-08-12,22:27,Model D,PR-MOD908,Minor Technical Failure,Low,Post-landing,REC - Recife,Monitoring,10.0,0,None,21,INV07,Yes,Yes,32967.28,8,2025,Q3,Tuesday,10,Low
+EVT0350,2025-08-12,12:34,Model D,PR-MOD618,Severe Turbulence,Medium,Approach,REC - Recife,Monitoring,18.0,0,Moderate,100,INV15,No,No,24013.81,8,2025,Q3,Tuesday,30,Moderate
+EVT0351,2025-08-12,11:44,Model B,PR-MOD931,Severe Turbulence,Low,Descent,CGH - Congonhas,Resolved,4.0,0,None,37,INV09,Yes,Yes,39556.97,8,2025,Q3,Tuesday,10,Low
+EVT0352,2025-08-13,11:10,Model A,PR-MOD762,Bird Strike,Low,Climb,SDU - Santos Dumont,Resolved,8.0,0,None,13,INV10,Yes,No,32914.32,8,2025,Q3,Wednesday,10,Low
+EVT0353,2025-08-13,12:48,Model D,PR-MOD439,Severe Turbulence,Low,Post-landing,GIG - Galeão,Resolved,4.0,0,Minor,27,INV13,No,Yes,33905.85,8,2025,Q3,Wednesday,15,Low
+EVT0354,2025-08-13,07:32,Model E,PR-MOD864,Smoke/Fumes,Low,Post-landing,VCP - Viracopos,Resolved,7.0,0,None,48,INV09,Yes,Yes,5020.47,8,2025,Q3,Wednesday,10,Low
+EVT0355,2025-08-13,21:37,Model E,PR-MOD807,Ground Damage,High,Descent,BSB - Brasília,Resolved,50.0,0,Significant,395,INV09,Yes,Yes,236900.97,8,2025,Q3,Wednesday,45,Moderate
+EVT0356,2025-08-14,09:26,Model C,PR-MOD187,Weather Diversion,Low,Takeoff,FOR - Fortaleza,Resolved,9.0,0,None,16,INV02,Yes,Yes,24190.28,8,2025,Q3,Thursday,20,Low
+EVT0357,2025-08-15,06:33,Model C,PR-MOD594,Communication Failure,Low,Approach,REC - Recife,Resolved,8.0,0,None,11,INV06,No,Yes,17219.03,8,2025,Q3,Friday,10,Low
+EVT0358,2025-08-17,14:20,Model A,PR-MOD168,Severe Turbulence,Low,Taxi,BSB - Brasília,Resolved,5.0,0,None,19,INV05,Yes,No,36127.5,8,2025,Q3,Sunday,10,Low
+EVT0359,2025-08-17,10:41,Model A,PR-MOD211,Severe Turbulence,Low,Approach,VCP - Viracopos,Resolved,6.0,0,None,2,INV11,Yes,No,1227.0,8,2025,Q3,Sunday,10,Low
+EVT0360,2025-08-17,17:10,Model D,PR-MOD438,Communication Failure,Low,Approach,CNF - Confins,Resolved,1.0,0,None,37,INV09,No,Yes,25848.1,8,2025,Q3,Sunday,10,Low
+EVT0361,2025-08-18,20:11,Model B,PR-MOD290,Severe Turbulence,Low,Cruise,POA - Porto Alegre,Monitoring,10.0,0,None,18,INV11,No,Yes,39908.01,8,2025,Q3,Monday,10,Low
+EVT0362,2025-08-19,06:28,Model B,PR-MOD706,Runway Incursion,Medium,Post-landing,GRU - Guarulhos,Resolved,23.0,0,None,113,INV07,No,Yes,36895.68,8,2025,Q3,Tuesday,20,Low
+EVT0363,2025-08-20,08:48,Model A,PR-MOD820,Weather Diversion,Low,Cruise,GRU - Guarulhos,Monitoring,14.0,0,Minor,19,INV13,Yes,No,10818.33,8,2025,Q3,Wednesday,15,Low
+EVT0364,2025-08-20,17:11,Model C,PR-MOD474,Severe Turbulence,Low,Approach,REC - Recife,Resolved,14.0,0,None,53,INV06,Yes,Yes,39995.17,8,2025,Q3,Wednesday,10,Low
+EVT0365,2025-08-21,15:33,Model C,PR-MOD754,Minor Technical Failure,Low,Landing,SSA - Salvador,Resolved,8.0,0,None,58,INV06,No,No,13191.43,8,2025,Q3,Thursday,20,Low
+EVT0366,2025-08-22,11:22,Model D,PR-MOD965,Engines,Medium,Approach,GRU - Guarulhos,Resolved,28.0,0,Minor,156,INV08,Yes,No,29391.54,8,2025,Q3,Friday,25,Low
+EVT0367,2025-08-25,19:37,Model E,PR-MOD186,Minor Technical Failure,Low,Descent,GRU - Guarulhos,Resolved,13.0,0,Minor,11,INV11,Yes,Yes,40050.61,8,2025,Q3,Monday,15,Low
+EVT0368,2025-08-25,03:11,Model D,PR-MOD482,Electrical System,Medium,Approach,SSA - Salvador,Monitoring,17.0,0,None,116,INV12,Yes,No,12004.78,8,2025,Q3,Monday,20,Low
+EVT0369,2025-08-26,04:36,Model B,PR-MOD492,Bird Strike,Low,Takeoff,SDU - Santos Dumont,Resolved,4.0,0,None,35,INV07,Yes,Yes,20970.13,8,2025,Q3,Tuesday,20,Low
+EVT0370,2025-08-26,20:59,Model D,PR-MOD277,Bird Strike,Low,Landing,REC - Recife,Resolved,1.0,0,Minor,50,INV09,Yes,Yes,26915.23,8,2025,Q3,Tuesday,25,Low
+EVT0371,2025-08-28,10:53,Model C,PR-MOD561,Communication Failure,Low,Takeoff,GIG - Galeão,Monitoring,2.0,0,None,12,INV10,Yes,Yes,7100.8,8,2025,Q3,Thursday,20,Low
+EVT0372,2025-08-28,06:52,Model A,PR-MOD493,Bird Strike,Low,Descent,GIG - Galeão,Resolved,3.0,0,None,26,INV09,No,Yes,24281.99,8,2025,Q3,Thursday,10,Low
+EVT0373,2025-08-28,22:53,Model F,PR-MOD554,Weather Diversion,Low,Climb,CWB - Curitiba,Resolved,2.0,0,Minor,11,INV08,Yes,Yes,24637.12,8,2025,Q3,Thursday,15,Low
+EVT0374,2025-08-29,07:18,Model A,PR-MOD133,Weather Diversion,Low,Taxi,SSA - Salvador,Monitoring,5.0,0,Minor,30,INV05,Yes,No,1639.95,8,2025,Q3,Friday,15,Low
+EVT0375,2025-08-29,14:36,Model B,PR-MOD860,Electrical System,Low,Descent,SSA - Salvador,Resolved,11.0,0,None,34,INV13,No,No,8493.63,8,2025,Q3,Friday,10,Low
+EVT0376,2025-08-31,03:17,Model C,PR-MOD893,Weather Diversion,Low,Climb,VCP - Viracopos,Resolved,12.0,0,Minor,2,INV09,No,No,5749.23,8,2025,Q3,Sunday,15,Low
+EVT0377,2025-08-31,14:34,Model A,PR-MOD323,Ground Damage,Low,Climb,REC - Recife,Resolved,11.0,0,None,57,INV07,Yes,No,38024.21,8,2025,Q3,Sunday,10,Low
+EVT0378,2025-08-31,09:55,Model C,PR-MOD133,Bird Strike,Low,Landing,CGH - Congonhas,Resolved,2.0,0,Minor,36,INV08,No,Yes,37592.14,8,2025,Q3,Sunday,25,Low
+EVT0379,2025-09-01,03:49,Model E,PR-MOD931,Bird Strike,Low,Takeoff,VCP - Viracopos,Resolved,3.0,0,None,59,INV04,Yes,No,22009.59,9,2025,Q3,Monday,20,Low
+EVT0380,2025-09-03,22:39,Model D,PR-MOD747,Bird Strike,Low,Post-landing,SDU - Santos Dumont,Resolved,11.0,0,Minor,37,INV07,Yes,No,34487.77,9,2025,Q3,Wednesday,15,Low
+EVT0381,2025-09-03,06:51,Model C,PR-MOD160,Weather Diversion,Low,Taxi,GIG - Galeão,Resolved,6.0,0,None,3,INV10,No,No,39263.98,9,2025,Q3,Wednesday,10,Low
+EVT0382,2025-09-04,05:20,Model C,PR-MOD820,Weather Diversion,Low,Climb,CNF - Confins,Resolved,11.0,0,None,25,INV05,No,No,29883.2,9,2025,Q3,Thursday,10,Low
+EVT0383,2025-09-04,16:57,Model B,PR-MOD795,Avionics,Low,Descent,POA - Porto Alegre,Resolved,6.0,0,None,14,INV14,Yes,Yes,47624.63,9,2025,Q3,Thursday,10,Low
+EVT0384,2025-09-05,08:55,Model F,PR-MOD771,Avionics,Low,Cruise,GIG - Galeão,Resolved,5.0,0,None,5,INV03,Yes,Yes,45946.56,9,2025,Q3,Friday,10,Low
+EVT0385,2025-09-07,07:48,Model B,PR-MOD963,Electrical System,High,Cruise,GRU - Guarulhos,Corrective Action,76.0,0,Severe,245,INV11,No,Yes,167827.39,9,2025,Q3,Sunday,50,High
+EVT0386,2025-09-08,08:40,Model C,PR-MOD524,Minor Technical Failure,Low,Takeoff,CNF - Confins,Resolved,5.0,0,None,12,INV07,No,Yes,28913.53,9,2025,Q3,Monday,20,Low
+EVT0387,2025-09-08,02:25,Model B,PR-MOD627,Severe Turbulence,Low,Takeoff,GRU - Guarulhos,Resolved,2.0,0,Minor,50,INV12,No,No,39750.47,9,2025,Q3,Monday,25,Low
+EVT0388,2025-09-09,15:20,Model A,PR-MOD695,Weather Diversion,Low,Taxi,VCP - Viracopos,Resolved,11.0,0,None,50,INV01,Yes,No,22789.31,9,2025,Q3,Tuesday,10,Low
+EVT0389,2025-09-10,11:54,Model A,PR-MOD164,Ground Damage,High,Cruise,BSB - Brasília,Corrective Action,63.0,1,Severe,258,INV13,No,Yes,335430.47,9,2025,Q3,Wednesday,70,Very High
+EVT0390,2025-09-10,15:17,Model B,PR-MOD430,Hydraulic System,Low,Climb,SDU - Santos Dumont,Resolved,6.0,0,None,57,INV14,No,Yes,41259.9,9,2025,Q3,Wednesday,10,Low
+EVT0391,2025-09-12,18:54,Model E,PR-MOD596,Pressurization,Low,Landing,CWB - Curitiba,Resolved,5.0,0,Minor,18,INV13,No,No,28938.89,9,2025,Q3,Friday,25,Low
+EVT0392,2025-09-15,20:50,Model C,PR-MOD956,Avionics,Low,Climb,SSA - Salvador,Resolved,12.0,0,None,53,INV08,Yes,Yes,2392.55,9,2025,Q3,Monday,10,Low
+EVT0393,2025-09-16,00:27,Model B,PR-MOD307,Bird Strike,Low,Taxi,BSB - Brasília,Resolved,14.0,0,None,5,INV12,Yes,No,22120.17,9,2025,Q3,Tuesday,10,Low
+EVT0394,2025-09-17,08:05,Model B,PR-MOD770,Minor Technical Failure,Medium,Climb,GRU - Guarulhos,Resolved,41.0,0,Minor,131,INV06,No,Yes,8032.98,9,2025,Q3,Wednesday,25,Low
+EVT0395,2025-09-19,20:10,Model C,PR-MOD153,Weather Diversion,Low,Climb,SDU - Santos Dumont,Resolved,9.0,0,None,16,INV07,No,No,33258.99,9,2025,Q3,Friday,10,Low
+EVT0396,2025-09-20,13:41,Model D,PR-MOD193,Near Miss,Medium,Landing,REC - Recife,Monitoring,13.0,0,Moderate,77,INV12,Yes,Yes,37786.08,9,2025,Q3,Saturday,40,Moderate
+EVT0397,2025-09-20,04:37,Model C,PR-MOD331,Bird Strike,Low,Landing,CNF - Confins,Monitoring,1.0,0,None,18,INV09,No,Yes,23892.65,9,2025,Q3,Saturday,20,Low
+EVT0398,2025-09-22,03:55,Model F,PR-MOD532,Severe Turbulence,Low,Takeoff,CNF - Confins,Monitoring,13.0,0,None,15,INV12,Yes,Yes,34810.3,9,2025,Q3,Monday,20,Low
+EVT0399,2025-09-23,02:46,Model C,PR-MOD925,Smoke/Fumes,Low,Post-landing,VCP - Viracopos,Resolved,10.0,0,None,20,INV02,Yes,Yes,11524.45,9,2025,Q3,Tuesday,10,Low
+EVT0400,2025-09-23,04:24,Model A,PR-MOD892,Electrical System,Low,Climb,GIG - Galeão,Resolved,9.0,0,None,34,INV14,Yes,No,44061.35,9,2025,Q3,Tuesday,10,Low
+EVT0401,2025-09-24,16:36,Model B,PR-MOD108,Smoke/Fumes,Low,Taxi,SDU - Santos Dumont,Resolved,7.0,0,Minor,35,INV10,Yes,Yes,7228.37,9,2025,Q3,Wednesday,15,Low
+EVT0402,2025-09-24,20:47,Model D,PR-MOD255,Pressurization,Low,Landing,GRU - Guarulhos,Monitoring,5.0,0,None,8,INV15,No,No,36149.36,9,2025,Q3,Wednesday,20,Low
+EVT0403,2025-09-25,06:05,Model A,PR-MOD202,Landing Gear,Low,Post-landing,CGH - Congonhas,Resolved,9.0,0,Minor,13,INV03,Yes,No,22174.96,9,2025,Q3,Thursday,15,Low
+EVT0404,2025-09-26,13:20,Model B,PR-MOD910,Minor Technical Failure,Low,Descent,GIG - Galeão,Resolved,3.0,0,Minor,12,INV03,Yes,Yes,19263.19,9,2025,Q3,Friday,15,Low
+EVT0405,2025-09-26,17:38,Model E,PR-MOD714,Bird Strike,Low,Takeoff,POA - Porto Alegre,Resolved,2.0,0,Minor,54,INV12,No,No,4304.01,9,2025,Q3,Friday,25,Low
+EVT0406,2025-09-26,21:56,Model A,PR-MOD408,Severe Turbulence,Low,Landing,VCP - Viracopos,Resolved,10.0,0,None,46,INV04,Yes,No,42409.82,9,2025,Q3,Friday,20,Low
+EVT0407,2025-09-27,01:50,Model B,PR-MOD912,Landing Gear,Low,Approach,SSA - Salvador,Resolved,8.0,0,None,26,INV04,No,Yes,14847.55,9,2025,Q3,Saturday,10,Low
+EVT0408,2025-09-28,20:38,Model C,PR-MOD172,Weather Diversion,Low,Descent,BSB - Brasília,Resolved,5.0,0,None,18,INV09,Yes,Yes,12129.98,9,2025,Q3,Sunday,10,Low
+EVT0409,2025-09-29,18:26,Model E,PR-MOD474,Ground Damage,Low,Takeoff,CGH - Congonhas,Monitoring,7.0,0,None,9,INV09,Yes,Yes,6685.95,9,2025,Q3,Monday,20,Low
+EVT0410,2025-09-29,02:00,Model C,PR-MOD368,Ground Damage,Low,Cruise,SDU - Santos Dumont,Resolved,14.0,0,None,45,INV04,Yes,Yes,932.8,9,2025,Q3,Monday,10,Low
+EVT0411,2025-09-30,20:45,Model C,PR-MOD613,Electrical System,Low,Takeoff,VCP - Viracopos,Monitoring,13.0,0,None,7,INV13,No,Yes,25379.87,9,2025,Q3,Tuesday,20,Low
+EVT0412,2025-10-01,20:34,Model A,PR-MOD650,Weather Diversion,Low,Cruise,GRU - Guarulhos,Resolved,2.0,0,Minor,40,INV10,Yes,Yes,20173.64,10,2025,Q4,Wednesday,15,Low
+EVT0413,2025-10-01,16:58,Model C,PR-MOD308,Severe Turbulence,Low,Approach,GRU - Guarulhos,Resolved,10.0,0,None,21,INV13,Yes,No,15564.35,10,2025,Q4,Wednesday,10,Low
+EVT0414,2025-10-02,20:48,Model A,PR-MOD954,Bird Strike,Low,Cruise,CWB - Curitiba,Monitoring,5.0,0,None,28,INV11,Yes,Yes,19597.5,10,2025,Q4,Thursday,10,Low
+EVT0415,2025-10-03,07:03,Model C,PR-MOD350,Electrical System,Low,Takeoff,BSB - Brasília,Resolved,2.0,0,Minor,35,INV02,No,Yes,21930.55,10,2025,Q4,Friday,25,Low
+EVT0416,2025-10-03,01:19,Model B,PR-MOD782,Minor Technical Failure,Medium,Takeoff,SSA - Salvador,Resolved,21.0,0,Minor,174,INV12,Yes,Yes,30653.61,10,2025,Q4,Friday,35,Moderate
+EVT0417,2025-10-04,22:00,Model C,PR-MOD267,Weather Diversion,Low,Landing,SDU - Santos Dumont,Resolved,8.0,0,None,46,INV08,No,No,35424.24,10,2025,Q4,Saturday,20,Low
+EVT0418,2025-10-05,23:16,Model F,PR-MOD270,Pressurization,Low,Landing,REC - Recife,Resolved,12.0,0,Minor,3,INV06,Yes,No,39171.06,10,2025,Q4,Sunday,25,Low
+EVT0419,2025-10-06,03:49,Model D,PR-MOD130,Severe Turbulence,Low,Descent,CNF - Confins,Monitoring,12.0,0,None,16,INV06,No,Yes,36673.5,10,2025,Q4,Monday,10,Low
+EVT0420,2025-10-06,22:36,Model B,PR-MOD742,Communication Failure,Low,Cruise,REC - Recife,Resolved,2.0,0,Minor,34,INV02,No,Yes,3287.21,10,2025,Q4,Monday,15,Low
+EVT0421,2025-10-07,15:54,Model B,PR-MOD680,Bird Strike,Low,Post-landing,REC - Recife,Resolved,13.0,0,Minor,1,INV03,No,Yes,18070.18,10,2025,Q4,Tuesday,15,Low
+EVT0422,2025-10-07,18:43,Model E,PR-MOD840,Smoke/Fumes,Low,Descent,GIG - Galeão,Resolved,1.0,0,None,22,INV02,Yes,No,38689.11,10,2025,Q4,Tuesday,10,Low
+EVT0423,2025-10-08,00:15,Model A,PR-MOD147,Minor Technical Failure,Medium,Cruise,FOR - Fortaleza,Resolved,12.0,0,Moderate,178,INV08,No,Yes,228.17,10,2025,Q4,Wednesday,30,Moderate
+EVT0424,2025-10-10,01:35,Model A,PR-MOD922,Minor Technical Failure,Low,Taxi,CNF - Confins,Resolved,11.0,0,None,56,INV15,No,Yes,9030.15,10,2025,Q4,Friday,10,Low
+EVT0425,2025-10-11,23:20,Model A,PR-MOD377,Hydraulic System,Low,Approach,FOR - Fortaleza,Resolved,10.0,0,None,36,INV14,Yes,No,12488.33,10,2025,Q4,Saturday,10,Low
+EVT0426,2025-10-11,21:57,Model E,PR-MOD153,Electrical System,Low,Approach,GRU - Guarulhos,Resolved,3.0,0,None,46,INV03,Yes,No,6058.11,10,2025,Q4,Saturday,10,Low
+EVT0427,2025-10-12,02:56,Model D,PR-MOD576,Avionics,Low,Takeoff,CNF - Confins,Monitoring,9.0,0,None,59,INV14,No,Yes,47708.56,10,2025,Q4,Sunday,20,Low
+EVT0428,2025-10-12,14:00,Model B,PR-MOD477,Hydraulic System,Low,Cruise,CWB - Curitiba,Resolved,1.0,0,None,57,INV04,No,No,4410.64,10,2025,Q4,Sunday,10,Low
+EVT0429,2025-10-12,07:29,Model B,PR-MOD477,Ground Damage,Low,Landing,SDU - Santos Dumont,Resolved,9.0,0,None,5,INV10,No,Yes,37004.84,10,2025,Q4,Sunday,20,Low
+EVT0430,2025-10-13,07:09,Model A,PR-MOD106,Severe Turbulence,Low,Post-landing,CWB - Curitiba,Resolved,9.0,0,Minor,15,INV15,No,Yes,45032.12,10,2025,Q4,Monday,15,Low
+EVT0431,2025-10-14,20:53,Model E,PR-MOD810,Smoke/Fumes,Low,Post-landing,GRU - Guarulhos,Resolved,3.0,0,None,10,INV15,Yes,Yes,27123.11,10,2025,Q4,Tuesday,10,Low
+EVT0432,2025-10-15,12:54,Model A,PR-MOD855,Ground Damage,Low,Descent,REC - Recife,Resolved,11.0,0,None,2,INV12,No,Yes,37970.56,10,2025,Q4,Wednesday,10,Low
+EVT0433,2025-10-17,07:26,Model B,PR-MOD603,Communication Failure,Low,Cruise,POA - Porto Alegre,Resolved,12.0,0,None,25,INV01,Yes,No,26537.74,10,2025,Q4,Friday,10,Low
+EVT0434,2025-10-17,07:57,Model C,PR-MOD965,Near Miss,Medium,Landing,VCP - Viracopos,Corrective Action,29.0,0,Minor,104,INV09,No,No,4742.03,10,2025,Q4,Friday,35,Moderate
+EVT0435,2025-10-18,23:05,Model D,PR-MOD694,Hydraulic System,Low,Taxi,POA - Porto Alegre,Resolved,7.0,0,None,25,INV02,Yes,No,22977.06,10,2025,Q4,Saturday,10,Low
+EVT0436,2025-10-18,18:03,Model F,PR-MOD545,Severe Turbulence,Low,Landing,VCP - Viracopos,Resolved,8.0,0,None,46,INV11,Yes,Yes,3834.04,10,2025,Q4,Saturday,20,Low
+EVT0437,2025-10-19,10:59,Model E,PR-MOD920,Ground Damage,Low,Taxi,REC - Recife,Resolved,6.0,0,None,59,INV07,No,Yes,13123.45,10,2025,Q4,Sunday,10,Low
+EVT0438,2025-10-20,02:12,Model E,PR-MOD239,Smoke/Fumes,Low,Post-landing,CNF - Confins,Resolved,4.0,0,None,10,INV13,Yes,Yes,13670.6,10,2025,Q4,Monday,10,Low
+EVT0439,2025-10-21,14:20,Model D,PR-MOD516,Minor Technical Failure,Low,Descent,CNF - Confins,Monitoring,13.0,0,None,45,INV02,No,Yes,8302.31,10,2025,Q4,Tuesday,10,Low
+EVT0440,2025-10-22,08:54,Model B,PR-MOD222,Severe Turbulence,Low,Approach,BSB - Brasília,Resolved,10.0,0,None,30,INV02,Yes,No,15484.56,10,2025,Q4,Wednesday,10,Low
+EVT0441,2025-10-22,22:38,Model A,PR-MOD141,Bird Strike,Low,Post-landing,CWB - Curitiba,Resolved,11.0,0,None,16,INV04,No,Yes,41336.7,10,2025,Q4,Wednesday,10,Low
+EVT0442,2025-10-25,11:25,Model A,PR-MOD625,Hydraulic System,Low,Climb,VCP - Viracopos,Resolved,6.0,0,None,3,INV01,No,Yes,35586.75,10,2025,Q4,Saturday,10,Low
+EVT0443,2025-10-26,14:35,Model F,PR-MOD866,Near Miss,High,Taxi,GIG - Galeão,Under Investigation,,0,Moderate,476,INV09,Yes,Yes,476527.34,10,2025,Q4,Sunday,50,High
+EVT0444,2025-10-28,04:07,Model C,PR-MOD112,Ground Damage,Low,Cruise,VCP - Viracopos,Corrective Action,10.0,0,None,5,INV01,Yes,Yes,5185.18,10,2025,Q4,Tuesday,10,Low
+EVT0445,2025-10-28,11:43,Model E,PR-MOD745,Hydraulic System,Low,Descent,GIG - Galeão,Corrective Action,11.0,0,None,42,INV11,Yes,No,41201.3,10,2025,Q4,Tuesday,10,Low
+EVT0446,2025-10-29,02:01,Model E,PR-MOD166,Runway Incursion,Medium,Taxi,CWB - Curitiba,Corrective Action,,0,Moderate,123,INV04,No,Yes,13015.15,10,2025,Q4,Wednesday,30,Moderate
+EVT0447,2025-10-29,10:07,Model C,PR-MOD143,Smoke/Fumes,Low,Approach,VCP - Viracopos,Corrective Action,6.0,0,None,28,INV08,Yes,Yes,45263.39,10,2025,Q4,Wednesday,10,Low
+EVT0448,2025-10-30,23:25,Model B,PR-MOD608,Bird Strike,Low,Descent,FOR - Fortaleza,Under Investigation,,0,Minor,42,INV01,No,No,21714.5,10,2025,Q4,Thursday,25,Low
+EVT0449,2025-10-31,06:58,Model C,PR-MOD291,Electrical System,Low,Taxi,BSB - Brasília,Under Investigation,,0,None,26,INV05,No,Yes,8723.08,10,2025,Q4,Friday,20,Low
+EVT0450,2025-11-03,19:39,Model E,PR-MOD351,Engines,Medium,Post-landing,REC - Recife,Corrective Action,,0,None,158,INV11,No,Yes,1829.01,11,2025,Q4,Monday,20,Low
